@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:25">
+  <properties>
+    <titles>
+      <title>Juru Selamatku</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Walau ku harus berjalan<br/>Dalam lembah kekelaman<br/>PerlindunganMu Oh Tuhan<br/>Nyatalah bagi hidupku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tiada pernah sedetik pun<br/>Tiada pernah Kau tinggalkan<br/>Sungguh mulia dan sempurna<br/>Hanya Kau layak disembah</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Yesus Engkau Juru s’lamatku<br/>Dalam janjiMu kemenanganku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Selamanya ‘kan kunyatakan<br/>Besar setiaMu Tuhan<br/>Di hidupku</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

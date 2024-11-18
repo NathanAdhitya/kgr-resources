@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>TERIMA KASIH</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Saat tak ada harapan, Kau datang briku harapan<br/>Yesus .. Kau jawaban hidupku<br/>Saat tak ada tujuan, Kau datang tunjukkanku jalan<br/>Tunjukkan ku jalan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Trima kasih buat cintaMu yang tanpa batas<br/>Kau brikan hidupMu jadikan ku berharga<br/>Trima kasih buat cintaMu yang tanpa batas<br/>Kau berikan hidupMu jadikan aku indah<br/>Trima kasih ..</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:11">
+  <properties>
+    <titles>
+      <title>Bagi Tuhan Tak Ada Yang Mustahil</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ku yakin saat Kau berfirman<br/>Ku menang saat Kau bertindak<br/>Hidupku hanya ditentukan oleh perkataanMu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ku aman karna Kau menjaga<br/>Ku kuat karna Kau menopang<br/>Hidupku hanya ditentukan oleh kuasaMu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Bagi Tuhan tak ada yang mustahil<br/>Bagi Tuhan tak ada yang tak mungkin<br/>MujizatNya disediakan bagiku<br/>Ku diangkat dan dipulihkanNya</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

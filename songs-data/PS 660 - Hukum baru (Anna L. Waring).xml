@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:09">
+  <properties>
+    <titles>
+      <title>PS 660 - Hukum baru</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Puji syukur pada-Mu, ya Tuhan, atas segala karunia-Mu.<br/>Sambutlah kami di hadapan-Mu, ya Tuhan, kar'na kasih-Mu.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Puji syukur pada-Mu, ya Tuhan, yang memberi kami hidup baru.<br/>Kami bahagia kar'na menjadi tanda dan saksi cinta-Mu.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Puji syukur pada-Mu, ya Tuhan, yang rela wafat bagi umat-Mu,<br/>bahkan Kau mati di kayu salib, itulah wujud cinta-Mu.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

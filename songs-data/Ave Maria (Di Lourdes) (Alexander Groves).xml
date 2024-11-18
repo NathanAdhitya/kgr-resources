@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:25">
+  <properties>
+    <titles>
+      <title>Ave Maria (Di Lourdes)</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Di Lourdes di gua sunyi terpencil<br/>Tampaklah Maria perawan murni<br/>Ave ave ave Maria 2x</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Gadis bersahaja dipilih Tuhan<br/>Berhadapan muka dengan Ibunda<br/>Ave ave ave Maria 2x</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Perawan Maria molek bestari<br/>Bermandi cahaya kemilau indah<br/>Ave ave ave Maria 2x</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Wajahnya yang manis bersunting senyum<br/>Pakaiannya putih berikat biru<br/>Ave ave ave Maria 2x</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Pesan amat penting disampaikannya<br/>Bertapalah bagi orang berdosa<br/>Ave ave ave Maria 2x</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Berkata Perawan lembut yang ramah<br/>Aku yang dikandung tidak bernoda<br/>Ave ave ave Maria 2x</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Tersingkap di Lourdes warta gembira<br/>Ibu surga cinta kita di bumi<br/>Ave ave ave Maria 2x</lines>
+    </verse>
+    <verse name="v1h">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>Thank You God For Loving Me</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Thank You, God for loving me<br/>Thank You, God for family<br/>In the light and in the night<br/>You always care for me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Through my joy and through my tears<br/>You're friend who always hears<br/>Thank You, God for loving me, for loving me</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Thank You, God for giving me ears to hear and eyes to see, hands to touch and lips to sing</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>You made all of me<br/>For friend-sip and for so much more<br/>You're the one that I adore<br/>Thank You, God for loving me for loving me</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Thank You, God for loving me<br/>Thank You, God<br/>You set me free<br/>By Your life and by Your grace</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>I'm Yours eternally<br/>Even when I go a-stray<br/>You are there to show the way</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Thank You, God for loving me for loving me<br/>Thank You for loving me</lines>
+    </verse>
+    <verse name="v1h">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

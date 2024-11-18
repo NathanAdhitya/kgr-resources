@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:11">
+  <properties>
+    <titles>
+      <title>Ini waktu yang Tuhan janjikan</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ini waktu yang Tuhan janjikan<br/>AnugrahNya dicurahkan<br/>Roh Kudus turun atasku<br/>Mengubah kehidupanku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ini waktu yang Tuhan janjikan<br/>AnugrahNya dicurahkan<br/>Roh Kudus turun atasku<br/>Jadikan hidup ini indah</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kasih Tuhan memulihkan<br/>Kasih Tuhan memperbaharui<br/>Kasih Tuhan mau mengampuni<br/>Kasih Tuhan mengubah dunia</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Kasih Tuhan mengubah hidupku<br/>Kasih Tuhan mengubah sgalanya</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

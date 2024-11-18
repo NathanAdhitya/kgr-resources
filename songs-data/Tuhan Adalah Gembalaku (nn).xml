@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>Tuhan Adalah Gembalaku</title>
+    </titles>
+    <authors>
+      <author>nn</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tuhan adalah Gembalaku, tak'kan kekurangan aku.<br/>Ia membaringkanku di padang yang berumput hijau.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dia membimbingku ke air yang tenang, Dia menyegarkan jiwaku.<br/>Dia menuntunku Ke jalan yang benar, oleh karena nama-Nya...<br/>Sekalipun aku berjalan, dalam lembah kekelaman.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Aku tidak takut bahaya, sebab Engkau besertaku.<br/>Gada-Mu dan tongkat-Mu, itulah yang menghibur aku.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Dan akupun, akan diam dalam rumah Tuhan s'panjang masa...</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

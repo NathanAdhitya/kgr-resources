@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:25">
+  <properties>
+    <titles>
+      <title>I Sing Praises To Your Name</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>I Sing Praises To Your Name, Oh Lord,<br/>Praises To Your Name, Oh Lord,<br/>For Your Name Is Great And Greatly To Be Praised.<br/>I Sing Praises To Your Name, Oh Lord,<br/>Praises To Your Name, Oh Lord,<br/>For Your Name Is Great And Greatly To Be Praised.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>I Give Glory To Your Name, Oh Lord,<br/>Glory To Your Name, Oh Lord,<br/>For Your Name Is Great And Greatly To Be Praised.<br/>I Give Glory To Your Name, Oh Lord,<br/>Glory To Your Name, Oh Lord,<br/>For Your Name Is Great And Greatly To Be Praised.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

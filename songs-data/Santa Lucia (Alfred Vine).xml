@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>Santa Lucia</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Santa Lucia Prawan yang setia<br/>Pada Sang Pencipta Allah di Surga<br/>Nama Mu dikenang sebagai Cahaya<br/>Iman Mu yang teguh<br/>Penuh Rahmat Bapa</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Santa Lucia Santa Lucia<br/>Senjakala yang Bercahaya Dikau Lucia<br/>Santa Lucia Santa Lucia<br/>Senjakala yang Bercahaya Slama lamanya</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Tuntun kami semua<br/>Bimbing dalam doa<br/>Agar layak hidup<br/>Damai sejahtera</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Sinar bintang terang<br/>Semangat hati<br/>Lindungi usaha dan karya kami</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

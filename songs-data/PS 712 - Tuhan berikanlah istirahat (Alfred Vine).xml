@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>PS 712 - Tuhan berikanlah istirahat</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tuhan, berikanlah istirahat, abadi<br/>dan tenang bagi yang wafat.<br/>Beri pengampunan segala dosanya,<br/>kar'na mahamurah hati-Mu, Allah.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kami berimankan sabda putra:<br/>"Aku kebangkitan dan kehidupan.<br/>Barangsiapalah percaya 'kan Daku,<br/>ia akan hidup untuk selamanya."</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kami menantikan saat itu:<br/>Maut akan lenyap diganti hidup<br/>S'moga kami kelak memandang wajahMu<br/>disinari terang dalam rumahMu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

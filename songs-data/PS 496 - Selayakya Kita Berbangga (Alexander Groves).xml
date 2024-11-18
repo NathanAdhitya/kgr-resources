@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 496 - Selayakya Kita Berbangga</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Selayaknya kita berbangga dalam salib Yesus Kristus.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kristus telah mengosongkan diri-Nya<br/>dan mengambil rupa seorang hamba,<br/>dan menjadi sama dengan manusia<br/>dan perilaku-Nya seperti manusia.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Dalam keadaan sebagai manusia, <br/>Ia telah merendahkan diri-Nya<br/>dan taat sampai mati<br/>bahkan sampai mati di salib.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Itu sebabnya Allah sangat meninggikan Dia,<br/>dan mengaruniakan kepada-Nya nama<br/>yang mengatasi segala nama<br/>agar dalam nama Yesus segala makhluk berlutut.</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

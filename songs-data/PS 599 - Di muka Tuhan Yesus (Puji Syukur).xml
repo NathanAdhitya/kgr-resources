@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>PS 599 - Di muka Tuhan Yesus</title>
+    </titles>
+    <authors>
+      <author>Puji Syukur</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Di muka Tuhan Yesus betapa hina diriku.<br/>Kubawa dosa-dosaku di muka Tuhan Yesus.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Di muka Tuhan Yesus tersungkur kar’na dosaku,<br/>kubuka kerinduanku di muka Tuhan Yesus.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Di muka Tuhan Yesus ‘ku insaf akan salahku;<br/>bertobat kini hatiku di muka Tuhan Yesus.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Di muka Tuhan Yesus kudapat kasih sayangNya;<br/>hatiku pasrah berserah di muka Tuhan Yesus.</lines>
+    </verse>
+  </lyrics>
+</song>

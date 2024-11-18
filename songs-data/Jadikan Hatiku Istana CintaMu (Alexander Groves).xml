@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:25">
+  <properties>
+    <titles>
+      <title>Jadikan Hatiku Istana CintaMu</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Siapakah aku dihadapanMu Tuhan?<br/>Kau curahkan cintaMu<br/>Apakah artiku bagiMu?<br/>CintaMu setia selalu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Pantaskah kumenyambut tubuh darahMu<br/>Karena banyak dosaku<br/>Sering ku ingkari cintaMu<br/>Dalam langkah hidupku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Ampunilah aku, ampuni kalemahanku<br/>Ampuni dosaku dalam kerahimanMu<br/>Agar ku mampu wartakan kasihMu<br/>Di dalam hidupku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Bersihkan hatiku dengan sucinya cintaMu<br/>Jadikan hatiku istana cintaMu<br/>Tempat yang layak untuk bersemayam<br/>Tubuh dan darahMu</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

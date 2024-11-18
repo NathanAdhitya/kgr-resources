@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:25">
+  <properties>
+    <titles>
+      <title>Jadikanku Rumah DoaMu</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kubawa hidupku skarang<br/>Ke tempat kudusMu Tuhan<br/>Di mezbahMu kuserahkan<br/>Seluruh hidupku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Penuhi hati ku skarang<br/>Dengan urapan yang baru<br/>Agar aku lebih lagi<br/>Mendengar suaraMu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Jadikan aku Tuhan<br/>Rumah doaMu<br/>Agar semua suku bangsa<br/>Datang menyembahMu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Jadikan aku Tuhan<br/>Rumah doaMu<br/>Agar semua suku bangsa<br/>Datang menyembahMu</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

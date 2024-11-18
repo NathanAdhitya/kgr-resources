@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>Tiba saatnya</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tiba saatnya kami berkumpul bersatu<br/>Dari s'gnap suku dan bangsa oh<br/>Berdiri di hadapan tahta Anak Domba<br/>Satu suara menyatakan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Keslamatan bagi Allah yang duduk dan bertahta<br/>Kami naikkan pada Anak Domba ye<br/>Pujian dan kekuatan hormat dan kekuasaan<br/>Kemuliaan bagi Dia selamanya</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

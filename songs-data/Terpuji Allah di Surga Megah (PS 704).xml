@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:14">
+  <properties>
+    <titles>
+      <title>Terpuji Allah di Surga Megah</title>
+    </titles>
+    <authors>
+      <author>PS 704</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Terpuji Allah di surga megah<br/>Berdandan terang di langit cerah<br/>Wahana-Nya awan terbang terbentang<br/>Terlindunglah bumi dengan sayap-Nya.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tetap dan teguh kuasa Allah<br/>Bertafakurlah seluruh alam<br/>Lautan dan bumi serta isinya<br/>Tertunduk kelu mengemban titah-Nya</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

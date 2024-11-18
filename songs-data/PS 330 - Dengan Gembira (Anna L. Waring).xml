@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:20">
+  <properties>
+    <titles>
+      <title>PS 330 - Dengan Gembira</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Dengan gembira, bersama melangkah<br/>Kita semua menghadap Tuhan<br/>Bertepuk tangan, nyanyi sukaria<br/>Sebab besar kasih setiaNya</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Angkatlah hati, jiwa<br/>Mohon rahmat berlimpah<br/>Agar kita pun pantas<br/>Berkenan kepadaNya</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Satukan kami umatMu, ya Tuhan<br/>Dalam Kristus jadi satu warga<br/>Hingga kami sehati dan sejiwa<br/>Memuliakan namaMu, Tuhan</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

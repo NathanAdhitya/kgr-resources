@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>PS 677 - Nyanyikanlah Nyanyian Baru</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Nyanyikanlah nyanyian baru, Tuhan dimuliakanlah<br/>Damai sejahtera bagi kami, tlah datang dari tanganNya<br/>DinyatakanNya keadilan di muka bangsa dunia<br/>mengingat kasih perjanjian terhadap kaum pilihanNya</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bersorak-sorai bagi Dia, hai bumi bergembiralah<br/>Bermazmur bagi Yang Setia, hai segenap manusia<br/>Gambus, kecapi, dan nafiri, bunyikanlah dengan seru<br/>biar semua mengiringi pujian bagi Rajamu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Biar samudra bergemuruh dan sungai-sungai bertepuk<br/>Biar segala puncak gunung bersorak-sorai menderu<br/>Langit dan bumi, ramai-ramai sambutlah Raja mulia<br/>yang datang menyampaikan damai selaku Hakim dunia</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

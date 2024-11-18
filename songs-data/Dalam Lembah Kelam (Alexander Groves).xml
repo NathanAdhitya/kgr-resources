@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Dalam Lembah Kelam</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Sekalipun aku dalam lembah kelam<br/>Ku tak takut<br/>S'bab Kau besertaku<br/>Sekalipun badai taufan datang menerpa<br/>Ku tak gentar<br/>S'bab Kau di sisiku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Aku percaya<br/>Berkat-Mu atasku melimpah<br/>Kebajikan, kemurahan selalu mengikutiku<br/>Ku puji ku sembah Kau Tuhan</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

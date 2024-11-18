@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 430 - Tuhan Yesus Kau Hadir Kini</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tuhan Yesus, Kau hadir kini dalam rupa anggur roti. <br/>Kami yang haus, kami yang lapar, tanpa Diri-Mu kami 'kan mati.<br/>Tuhan Yesus, datanglah kini, masukilah hati kami.<br/>Bersabdalah sepatah saja 'kan sembuh kami: hidup lagi.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tuhan Yesus, temani kami di sepanjang hidup kami.<br/>Kami yang buta, kami yang tuli, tanpa Diri-Mu kami pun sepi.<br/>Tuhan Yesus, bimbinglah kami siang malam hidup kami.<br/>Kisahkanlah, nyanyikanlah balada hidup yang abadi.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

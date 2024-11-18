@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Dalam Tuhan Aku Bersyukur</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>El Senyor és la meva força<br/>El Senyor, el meu cant<br/>Ell ha estat la salvació<br/>En ell confio i no tinc por</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dalam Tuhan aku bersyukur<br/>Dengan lagu pujian<br/>Tuhanlah penyelamatku<br/>Dalam Dialah sukacita</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>In the Lord I'll be ever thankful<br/>In the Lord I will rejoice<br/>Look to God do not be afraid<br/>Lift up your voices the Lord is near</lines>
+    </verse>
+  </lyrics>
+</song>

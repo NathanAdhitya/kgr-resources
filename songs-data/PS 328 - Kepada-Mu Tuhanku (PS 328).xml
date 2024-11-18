@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:20">
+  <properties>
+    <titles>
+      <title>PS 328 - Kepada-Mu Tuhanku</title>
+    </titles>
+    <authors>
+      <author>PS 328</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kepada-Mu Tuhanku, kuangkat s'luruh jiwaku<br/>Siramilah, segarkanlah, sucikan jiwa, badan hamba, ya Tuhan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kepada-Mu Allahku, teguh percaya hamba-Mu<br/>Lindungilah, naungilah, janganlah aku diperolok musuhku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Tunjukkanlah padaku, semua jalan yang kudus<br/>Arahkanlah, dan bimbinglah, supaya aku ikut jalan yang benar</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Engkau Jurus'lamatku, kunanti Dikau tak henti<br/>Limpahkanlah, curahkanlah, segala rahmat kasih-Mu yang abadi</lines>
+    </verse>
+  </lyrics>
+</song>

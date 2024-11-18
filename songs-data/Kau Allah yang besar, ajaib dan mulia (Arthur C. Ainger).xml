@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:25">
+  <properties>
+    <titles>
+      <title>Kau Allah yang besar, ajaib dan mulia</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kau Allah yang besar, ajaib dan mulia<br/>Kau Yesus yang selalu membuatku terpesona<br/>Segala pujian bagi-Mu ya Tuhan<br/>Hanya Kau yang layak kuagungkan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Yesus Tuhan Kau layak dipuji<br/>Ditinggikan atas seluruh bumi<br/>Ajaib kuasa-Mu ya Allahku<br/>Kukagum hormat pada-Mu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Yesus Tuhan Kau layak dipuji<br/>Ditinggikan atas seluruh bumi<br/>Heran kasih-Mu di hidupku<br/>Yesus kekuatanku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Segala pujian bagi-Mu ya Tuhan<br/>Hanya Kau yang layak kuagungkan</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

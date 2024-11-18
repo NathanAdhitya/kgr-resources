@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:20">
+  <properties>
+    <titles>
+      <title>PS 324 - Pujilah Tuhan</title>
+    </titles>
+    <authors>
+      <author>PS 324</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Pujilah Tuhan, hai umat beriman, <br/>mari bernyanyi dan mengucap syukur.<br/>Persembahkanlah di altar yang luhur kurban pujian.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Di ufuk langit surya sudah terbit, <br/>menghalau kabut dan gelap gulita.<br/>Dilambangkan-Nya Kristus Tuhan kita yang bangkit.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kristuslah jalan serta kebenaran; <br/>marilah kita mengikuti Dia,<br/>hingga akhirnya jadi satu warga di rumah Bapa.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

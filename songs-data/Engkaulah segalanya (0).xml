@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>Engkaulah segalanya</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ENGKAULAH KEKUATANKU<br/>ENGKAULAH KEMULIAANKU<br/>ENGKAULAH SEGALANYA<br/>ENGKAU PERMATA YANG INDAH<br/>TAKKAN PERNAH KULEPASKAN<br/>ENGKAULAH SEGALANYA</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>YESUS DOMBA ALLAH, MULIA NAMAMU<br/>YESUS DOMBA ALLAH, MULIA NAMAMU</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>KAU HAPUS SEGALA DOSAKU<br/>SEGALA CELA DAN MALUKU<br/>ENGKAULAH SEGALANYA<br/>SAAT JATUH KAU ANGKATKU<br/>SAAT HAUS KAU PENUHIKU<br/>ENGKAULAH SEGALANYA</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

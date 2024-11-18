@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Hadirat-Mu</title>
+    </titles>
+    <authors>
+      <author>Symphony Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tuhan hadir di bait kudus-Nya,<br/>saat umat mencari wajah-Nya.<br/>Berseru, berdoa, bersujud menyembah,<br/>dan menikmati kehadiran-Nya.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tuhan mau dekat dengan umat-Nya,<br/>yang datang dengan seg’nap hatinya.<br/>Berseru, berdoa, bersujud menyembah,<br/>dan menikmati kehadiran-Nya.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>HadiratMu memenuhiku,<br/>hadirat kudusMu penuhi bait-Mu.<br/>Dan ‘ku tersungkur menyembah-Mu,<br/>yang ‘ku nampak hanya kemuliaan-Mu.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

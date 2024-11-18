@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>We Wish You a Merry Christmas</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>We wish you a merry Christmas<br/>We wish you a merry Christmas<br/>We wish you a merry Christmas<br/>And a happy New Year</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Good tidings we bring<br/>To you and your kin<br/>We wish you a merry Christmas<br/>And a happy New Year</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Selamat hari Natal<br/>Selamat hari Natal<br/>Selamat hari Natal dan Tahun Baru</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Salam bagimu sekalian<br/>Selamat hari Natal dan Tahun Baru</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

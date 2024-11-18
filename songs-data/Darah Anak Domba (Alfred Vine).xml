@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Darah Anak Domba</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Sekarang t’lah tiba<br/>Kes'lamatan dan kuasa<br/>Dan pemerintahan Allah kita<br/>Kuasa Dia yang diurapiNya<br/>Kar’na t’lah dilemparkanNya<br/>Para pendakwa kita</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Oleh darah Anak Domba<br/>Oleh kesaksian kita<br/>Iblis dikalahkan<br/>KuasaNya dihancurkan<br/>Oleh darah Anak Domba</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

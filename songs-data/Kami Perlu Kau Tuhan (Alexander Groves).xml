@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:25">
+  <properties>
+    <titles>
+      <title>Kami Perlu Kau Tuhan</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kemanakah kami mencari kasih sejati<br/>Kemanakah kami berseru saat badai datang menderu<br/>Yang kami tahu hanya Kau yang mampu<br/>pulihkan s'gala sesuatu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kami perlukan keajaiban-Mu<br/>Kami butuhkan sentuhan tangan-Mu<br/>Kami tak dapat jalan sendiri<br/>Kami perlu Kau Tuhan</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+    <verse name="v1d">
+      <lines>Nyanyi pujian bagimu Tuhan<br/>Pujian bagimu Tuhan<br/>Nama-Mu besar dan layak di puji<br/>Nyanyi pujian bagimu Tuhan<br/>Pujian bagimu Tuhan<br/>Nama-mu besar dan layak di puji</lines>
+    </verse>
+  </lyrics>
+</song>

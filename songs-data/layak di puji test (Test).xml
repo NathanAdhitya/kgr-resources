@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>layak di puji test</title>
+    </titles>
+    <authors>
+      <author>Test</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Alam semesta<br/>Melukiskan kebesaran tuhan<br/>Bumi dan Surga<br/>Menyanyikan kemuliaan nama-Mu</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Hosana, hosana</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Layak dipuji disembah<br/>Kaulah yang bertahta<br/>Dulu skarang dan slamanya<br/>Raja atas sgala raja<br/>Nama-Mu besar termulia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alam semesta<br/>Melukiskan kebesaran tuhan<br/>Bumi dan Surga<br/>Menyanyikan kemuliaan nama-Mu</lines>
+    </verse>
+  </lyrics>
+</song>

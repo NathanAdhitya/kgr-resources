@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>The First Noel</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Noel, Noel</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>The First Noel, the Angels did say<br/>Was to certain poor shepherds in fields as they lay<br/>In fields where they lay keeping their sheep<br/>On a cold winter's night that was so deep</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Born is the King of Israel!<br/>Noel, Noel<br/>Noel, Noel</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>They looked up and saw a star<br/>Shining in the East beyond them far<br/>And to the earth it gave great light<br/>And so it continued both day and night<br/>Noel, Noel<br/>Born is the King of Israel!</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Noel, Noel, Noel, Noel<br/>Born is the King of Israel!<br/>Born is the King of Israel!<br/>Noel, Noel<br/>Noel, Noel</lines>
+    </verse>
+    <verse name="v1f">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

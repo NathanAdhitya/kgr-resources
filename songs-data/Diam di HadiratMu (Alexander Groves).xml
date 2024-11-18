@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Diam di HadiratMu</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>P'nuhi hatiku<br/>Dengan hadirMu<br/>Kurindu memandang, wajahMu o Tuhan<br/>Di dalam kekudusanMu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bawaku dekat<br/>Dalam hatiMu<br/>Kurindu mendegar, suaraMu o Tuhan<br/>Di tempat kudusMu s’karang</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kurasakan kasihMu<br/>Dan indahnya kekudusanMu<br/>P'nuhi dengan kasihMu<br/>Diam di HadiratMu<br/>Kumengangkat tanganku<br/>Dan kubersyukur menyembahMu<br/>P'nuhi dengan kasihMu<br/>Diam di HadiratMu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

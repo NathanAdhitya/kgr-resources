@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 481 - Hanya Debulah Aku</title>
+    </titles>
+    <authors>
+      <author>Puji Syukur</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hanya debulah aku di alas kakiMu Tuhan<br/>Haus ‘kan titik embun<br/>sabda penuh ampun</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tak layak aku tengadah menatap wajahMu<br/>Namun tetap ‘ku percaya<br/>Maha Rahim Engkau</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Ampun seribu ampun<br/>Hapuskan dosa – dosaku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Segunung sesal ini ‘ku unjuk padaMu<br/>Tak layak aku tengadah menatap wajahMu</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Namun tetap ‘ku percaya<br/>Maha Rahim Engkau</lines>
+    </verse>
+  </lyrics>
+</song>

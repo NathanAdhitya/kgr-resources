@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>PS 658 - Tuhan Bentengku</title>
+    </titles>
+    <authors>
+      <author>Aku kepunyaan-Mu Yesus</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tuhan, bentengku perisaiku, <br/>batu karangku, panglimaku,<br/>mantab hatiku di rumahMu<br/>ku aman dalam tanganMu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Panah penyerang ditahanNya<br/>dan tombak musuh tlah hancur lebur</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ombak yang gencar ditenangkan<br/>dan badai taufan tlah tunduk terkelu</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Orang yang lemah dibimbingNya<br/>dan yang tersandung ditopang langkahnya</lines>
+    </verse>
+  </lyrics>
+</song>

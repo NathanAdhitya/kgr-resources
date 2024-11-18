@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:25">
+  <properties>
+    <titles>
+      <title>Karya Terbesar</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kasih Yang Terindah Hati Yang Mulia<br/>Hanya Kutemukan Di Dalammu Yesusku<br/>Pujian Dari Hatiku S'lalu Di Setiap Waktuku<br/>Tiada Pernah Berubah Kasihku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Karya Terbesar Dalam Hidupku<br/>Pengorbananmu Yang S'lamatkanku<br/>Engkaulah Harta Yang Tak Ternilai<br/>Yang Kumiliki Dan Kuhargai<br/>Yesus Engkau Kukagumi</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

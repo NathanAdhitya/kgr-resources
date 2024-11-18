@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>Ya Tuhan kami datang</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ya Tuhan kami datang<br/>Meskipun hati gersang<br/>Karena kami bersalah semua<br/>Pada Dikau pada teman pada kawan<br/>Serta lawan<br/>Karena kami bersalah semua</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Di dalam sikap benci dan hasrat cinta diri<br/>Pantaskah kami menghadap padaMu<br/>Tanpa maaf, tanpa berkah tanpa ampun<br/>Yang melimpah<br/>Pantaskah kami menghadap padaMu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>PadaMu kami mohon dan ingin setia janji<br/>Ya Tuhan kami kan baik selalu<br/>Dengan Dikau dengan teman dengan kawan<br/>Serta lawan<br/>Ya Tuhan kami kan baik selalu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

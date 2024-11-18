@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:15">
+  <properties>
+    <titles>
+      <title>Betapa Baiknya Engkau Tuhan</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Betapa baiknya Engkau, Tuhan<br/>Kasih-Mu tiada berkesudahan<br/>Betapa mulia kasih-Mu, Yesus<br/>Jiwaku diselamatkan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hosana, ku memuji Tuhan<br/>Hosana, kutinggikan Yesus<br/>Hosana, hosana, hosana</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

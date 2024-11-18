@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>PS 557 - Allah yang Tersamar</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Allah yang tersamar, Dikau kusembah,<br/>sungguh tersembunyi, roti wujudnya.<br/>S'luruh hati hamba tunduk berserah.<br/>'Ku memandang Dikau, hampa lainnya.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Pandang, raba, rasa tidaklah benar,<br/>'ku percaya hanya yang t'lah kudengar.<br/>S'luruh sabda dari Putera Allah<br/>sungguh tak bertara kebenarannya.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Yesus yang tersamar, 'ku memandang-Mu,<br/>Ya Tuhan, penuhi kerinduanku:<br/>'ku memandang Dikau yang senyatanya,<br/>bahagia kulihat Dikau mulia.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

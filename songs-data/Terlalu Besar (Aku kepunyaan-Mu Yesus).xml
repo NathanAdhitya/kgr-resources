@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>Terlalu Besar</title>
+    </titles>
+    <authors>
+      <author>Aku kepunyaan-Mu Yesus</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Telah kulihat bukti kasihMu<br/>Kau menderita gantikanku<br/>Dengan darahMu Kau selamatkan ku<br/>Kini kuhidup menyenangkanMu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Terlalu besar, kasihMu Bapa<br/>Pengorbanan yang Kau b'rikan bagiku<br/>Terlalu mahal darahMu Yesus<br/>Tercurah untuk menebus hidupku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

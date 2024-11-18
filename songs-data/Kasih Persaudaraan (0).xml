@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:11">
+  <properties>
+    <titles>
+      <title>Kasih Persaudaraan</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Dalam kasihMu kami Kau panggil<br/>Dalam kasihMu kami Kau Pilih<br/>Dalam kasihMu kami Kau jadikan satu keluarga</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Agar kami saling berbagi<br/>Agar saling memperhatikan<br/>Dalam satu kasih persaudaraan</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Eratkan tali kasih persaudaraan dalam keluarga besar komunitas ini<br/>Yang t'lah di anug'rahkan untuk tumbuh bersama<br/>Dalam iman dan pengharapan membagikan kasihMu pada Dunia</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Jadikan kami terangMu<br/>Jadikan kami garamMu<br/>Jadikan kami saksi kehadiranMu (2x)</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

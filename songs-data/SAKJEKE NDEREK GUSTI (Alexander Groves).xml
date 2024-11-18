@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>SAKJEKE NDEREK GUSTI</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Sakjeke aku nderek gusti <br/>uripku tansah diberkahi<br/>Atiku ayem tentrem<br/>Atiku ayem tentrem<br/>Kabeh iku Gusti Yesus sing maringi</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Matur nuwun, matur nuwun. <br/>Matur nuwun Gusti Yesus<br/>Kulo matur nuwun</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Matur nuwun, matur nuwun <br/>Matur nuwun Gusti Yesus<br/>Kulo matur nuwun.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

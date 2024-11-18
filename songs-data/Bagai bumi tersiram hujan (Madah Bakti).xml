@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:09">
+  <properties>
+    <titles>
+      <title>Bagai bumi tersiram hujan</title>
+    </titles>
+    <authors>
+      <author>Madah Bakti</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>BAGAI BUMI TERSIRAM HUJAN</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bagai bumi tersiram hujan sejuk segar berseri,<br/>Pohon pohon bersuka berdendang riang ria bernyanyi.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Cinta Tuhan bagi umat-Nya berlimpah tak terperi,<br/>Hati ingin membalas kasih-Nya dengan hormat dan bakti.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Persembahan bukti cinta sejati kami hunjukkan pada-Mu,<br/>Agar jadi keselamatan kami kar’na kurban Putera-Mu</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

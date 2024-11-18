@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:20">
+  <properties>
+    <titles>
+      <title>PS 322 - Saudara Mari Semua</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Saudara mari semua<br/>Hadaplah altar Tuhan kita<br/>Sambut tubuh dan darah<br/>Dari Putera Allah</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kita adalah satu<br/>Ingin hidup yang baru<br/>Satu Budi dan hati<br/>dalam Roh Ilahi</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Satu dalam sabda Nya<br/>Kasihi sesama mu<br/>Dalam suka dan duka<br/>Kita satu padu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Satukanlah dunia<br/>Jadikan keluarga<br/>Dalam cinta yang mesra<br/>Agar bahagia</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Alelu Alelu Alelu Aleluya</lines>
+    </verse>
+    <verse name="v1f">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:22">
+  <properties>
+    <titles>
+      <title>Kudicintai</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Terlalu besar tuk dipahami<br/>Besar cintaMu bagiku<br/>Sangat mustahil tuk diselami<br/>Hebat kuasaNya bagiku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>CintaNya besar <br/>KasihNya lebar<br/>KuasaNya besar bagiku<br/>CintaNya besar<br/>KasihNya lebar<br/>Dia maha besar bagiku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kudicintai dianugrahi<br/>Dia lampaui sgala akal<br/>Kudicintai dianugrahi<br/>Dia lampaui segalanya</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

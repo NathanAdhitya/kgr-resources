@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Glory, Glory, Haleluya</title>
+    </titles>
+    <authors>
+      <author>nn</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Glory, Glory Haleluya... (2x)<br/>Haleluya puji Dia</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Haleluya Puji Dia...</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Berkuasa, Berdaulat, Engkau Raja (4x)</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

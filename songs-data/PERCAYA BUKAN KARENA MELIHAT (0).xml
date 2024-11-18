@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:08">
+  <properties>
+    <titles>
+      <title>PERCAYA BUKAN KARENA MELIHAT</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kekuatan di hidupku<br/>Ku dapat didalam-Mu<br/>Kau teguhkan hatiku<br/>Tiada yang mustahil bagi-Mu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>S'bab aku percaya bukan karna melihat <br/>Namun karna Firman-Mu<br/>Yang slalu digenapi dihidupku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kupercaya bukan karna melihat <br/>Namun karna Firman-Mu<br/>Tiada pernah berubah</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 435 - Hatiku Gembira Tuhan</title>
+    </titles>
+    <authors>
+      <author>PS 435</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hatiku gembira Tuhan, Engkau datang padaku<br/>Hatiku gembira Tuhan, Engkau datang padaku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hadirlah dekatku Tuhan, jangan tinggalkan daku<br/>Hadirlah dekatku Tuhan, jangan tinggalkan daku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Jadikanlah kami Tuhan, putra-Mu yang setia<br/>Jadikanlah kami Tuhan, putra-Mu yang setia</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

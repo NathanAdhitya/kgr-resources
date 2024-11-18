@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>Yesus Aku Cinta</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Firman-Mu ya dan amin<br/>Janji-Mu menopangku<br/>Berjalan bersama-Mu<br/>Di setiap musim hidupku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Yesus aku cinta pada-Mu<br/>Yesus tetaplah bersamaku<br/>Tiada yang dapat menggantikan-Mu<br/>Engkaulah jaminan hidupku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Tiada yang dapat menggantikan-Mu<br/>Engkaulah jaminan hidupku<br/>Tiada yang dapat menggantikan-Mu<br/>Engkaulah jaminan hidupku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

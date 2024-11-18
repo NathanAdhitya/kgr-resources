@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:13">
+  <properties>
+    <titles>
+      <title>Serahkanlah semua</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ya Bapa, ajar kami percaya kepadaMu<br/>Bagaikan burung di langit biru<br/>tak menabur tak menuai<br/>namun hidup penuh damai</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ya Bapa ajar kami berserah kepadaMu<br/>turuti segala kehendakMu<br/>percaya pada kasih dan cintaMu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Serahkanlah semuua kekuatiran hidupmu<br/>Biarkanlah Dia bekerja bagimu<br/>percayalah Tuhan menjagaMu<br/>Dia akan semua menyertaimu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

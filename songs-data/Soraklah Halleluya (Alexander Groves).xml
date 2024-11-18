@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:16">
+  <properties>
+    <titles>
+      <title>Soraklah Halleluya</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Segala puji syukur hanya bagi-Mu Tuhan<br/>Sebab kau yang layak dipuja<br/>Kami mau bersorak tinggikan namaMu<br/>Halleluya</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Soraklah halleluya soraklah halleluya<br/>Halleluya</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

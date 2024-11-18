@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:11">
+  <properties>
+    <titles>
+      <title>TUHAN YESUS, KAU HADIR KINI (PS 430)</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tuhan Yesus, Kau hadir kini Dalam rupa anggur roti. <br/>Kami yang haus, kami yang lapar, Tanpa DiriMu kami 'kan mati.<br/>Tuhan Yesus, datanglah kini, Masukilah hati kami.<br/>Bersabdalah sepatah saja 'kan sembuh kami: hidup lagi.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tuhan Yesus, temani kami Di sepanjang hidup kami. <br/>Kami yang buta, kami yang tuli, Tanpa DiriMu kami pun sepi.<br/>Tuhan Yesus, bimbinglah kami Siang malam hidup kami.<br/>Kisahkanlah, nyanyikanlah Balada hidup yang abadi.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

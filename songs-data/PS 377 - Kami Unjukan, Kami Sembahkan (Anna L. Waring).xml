@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:13">
+  <properties>
+    <titles>
+      <title>PS 377 - Kami Unjukan, Kami Sembahkan</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kami unjukkan, kami sembahkan<br/>Kebebasan dan kemerdekaan<br/>Ingatan budi kehendak hati<br/>Kami serahkan pada-Mu Tuhan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Buah karya kami, malam dan hari<br/>T'rimalah Tuhan dalam tangan-Mu<br/>Segala yang ada milik-Mu jua<br/>Dalam karsa-Mu kami gunakan</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Bimbinglah kami kuatkan hati<br/>Untuk berkarya bagi sesama<br/>Segala yang ada milik-Mu jua<br/>Bagi Tuhan kami persembahkan</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Buah karya kami, malam dan hari<br/>T'rimalah Tuhan dalam tangan-Mu<br/>Segala yang ada milik-Mu jua<br/>Dalam karsa-Mu kami gunakan</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Bimbinglah kami kuatkan hati<br/>Untuk berkarya bagi sesama<br/>Segala yang ada milik-Mu jua<br/>Bagi Tuhan kami persembahkan</lines>
+    </verse>
+  </lyrics>
+</song>

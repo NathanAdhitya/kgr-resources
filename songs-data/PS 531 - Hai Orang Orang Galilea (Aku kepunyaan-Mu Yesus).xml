@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 531 - Hai Orang Orang Galilea</title>
+    </titles>
+    <authors>
+      <author>Aku kepunyaan-Mu Yesus</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hai orang-orang Galilea mengapa kamu tercengang, <br/>menengadah ke angkasa, bertanya-tanya tak reda<br/>Tuhan Yesus Kristus sungguh bangkit,<br/>kini naik ke surgaNya,<br/>megah di tahta<br/>yang mulia di sisi kanan BapaNya</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tetapi jangan kamu ragu, percayalah kepadaku, <br/>Tuhan akan datang lagi dengan megah tak terperi<br/>Para malaikat bersukacita,<br/>orang kudus bersoraklah.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Alleluya alleluya alleluya alleluya</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

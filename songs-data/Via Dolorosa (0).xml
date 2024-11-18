@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>Via Dolorosa</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Down the Via Dolorosa in Jerusalem that day<br/>The soldiers tried to clear the narrow street<br/>But the crowd pressed in to see<br/>The man condemned to die on Calvary</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>He was bleeding from a beating, there were stripes upon His back<br/>And He wore a crown of thorns upon His head<br/>And He bore with every step<br/>The scorn of those who cried out for His death</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Down the Via Dolorosa called the way of suffering<br/>Like a lamb came the Messiah, Christ the King,<br/>But He chose to walk that road<br/>Out of His love for you and me</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Down the Via Dolorosa, all the way to Calvary<br/>Por la Via Dolorosa, triste dia en Jerusalem<br/>Los soldados le abrian paso a Jesús<br/>Mas la gente se acercaba<br/>Para ver al que llevaba aquella cruz</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Por la Via Dolorosa, que es la via del dolor<br/>Como oveja vino Cristo, Rey, Señor<br/>Y fue El quien quiso ir por Su amor por ti y por mi<br/>Por la Via Dolorosa al Calvario y a morir</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>The blood that would cleanse the souls of all men<br/>Made its way through the heart of Jerusalem</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Down the Via Dolorosa called the way of suffering<br/>Like a lamb came the Messiah, Christ the King<br/>But He chose to walk that road out of His love for you and me<br/>Down the Via Dolorosa, all the way to Calvary</lines>
+    </verse>
+  </lyrics>
+</song>

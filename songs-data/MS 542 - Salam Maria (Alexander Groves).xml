@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:23">
+  <properties>
+    <titles>
+      <title>MS 542 - Salam Maria</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Salam Maria rahmat Tuhan sertaMu<br/>Bunda Yesus Kristus doakanlah kami</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Salam Maria Engkau Bunda Gereja<br/>lindungilah kami doakan putraMu<br/>Salam Maria Ratu Surga dan Bumi<br/>terpujilah Engkau di sepanjang masa</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Salam Maria rahmat Tuhan sertaMu<br/>Bunda Yesus Kristus doakanlah kami<br/>Salam Maria Engkau Bunda Gereja</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>lindungilah kami doakan putraMu<br/>Salam Maria Ratu Surga dan Bumi<br/>terpujilah Engkau<br/>di sepanjang masa<br/>terpujilah Engkau<br/>disepanjang masa</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Blessing</title>
+    </titles>
+    <authors>
+      <author>Cecil F. Alexander</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>The Lord Bless You And Keep You<br/>The Lord Make His Face To Shine On You<br/>And Be Gracious On To You<br/>God Be Gracious On To You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>The Lord Lift His Contenance Up On You<br/>And Give You Peace<br/>And Give You Peace<br/>The Lord Lift His Contenance Up On You<br/>And Give You Peace<br/>Amen… Amen… Amen… Amen…</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>The Lord Lift His Contenance Up On You<br/>And Give You Peace</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

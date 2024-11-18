@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:22">
+  <properties>
+    <titles>
+      <title>Kuasanya membangkitkan</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kuasanya Membangkitkan<br/>Urapan Roh Bekerja<br/>Melanda Umat Tuhan<br/>Saat Datang Menyembah</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mujizat Telah Nyata<br/>Buktikan Yesus Raja<br/>S'karang Ini Waktunya<br/>Majulah Hai Pemenang<br/>Kuasanya Atas Kita Membangkitkan</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

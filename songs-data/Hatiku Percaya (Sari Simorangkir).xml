@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:16">
+  <properties>
+    <titles>
+      <title>Hatiku Percaya</title>
+    </titles>
+    <authors>
+      <author>Sari Simorangkir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tuhanlah kekuatan dan mazmurku<br/>Dia gunung batu dan kes'lamatanku<br/>Hanya pada-Mu hatiku percaya<br/>Kaulah menara dan kota perlindungan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ku mau s'lalu bersyukur<br/>S'bab cinta-Mu padaku<br/>Tak kan pernah berubah<br/>Hatiku percaya<br/>Walau bumi bergoncang<br/>Gunung-gunung beranjak<br/>Namun kasih setiaMu<br/>Tak pergi dariku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

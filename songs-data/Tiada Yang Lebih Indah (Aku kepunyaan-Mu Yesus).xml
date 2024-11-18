@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>Tiada Yang Lebih Indah</title>
+    </titles>
+    <authors>
+      <author>Aku kepunyaan-Mu Yesus</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tiada lebih indah<br/>Ku melayani Yesus<br/>Walaupun berat dan sukar jalannya<br/>Takkan aku goyah<br/>Sebelum berakhir hidupku<br/>Karna kutahu<br/>Apa arti hidupku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tiada lebih indah<br/>Ku melayani Yesus<br/>Walaupun berat dan sukar jalannya<br/>Takkan aku goyah<br/>Sebelum berakhir hidupku<br/>Karna kutahu apa arti hidupku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Ku melayani Yesus<br/>Itu lebih indah dari semua<br/>Ku Melayani Yesus<br/>Itu lebih manis dari semuanya</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Terindah dalamku<br/>Telah kulepaskan<br/>Terkasih dalamku<br/>Telah kutinggalkan<br/>Asal hati Yesus merasa senang selalu<br/>Karna kutahu apa arti hidupku</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

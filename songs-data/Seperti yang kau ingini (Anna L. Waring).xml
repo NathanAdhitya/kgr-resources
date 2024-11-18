@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:20">
+  <properties>
+    <titles>
+      <title>Seperti yang kau ingini</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Bukan dengan barang fana<br/>Kau membayar dosaku<br/>Dengan darah yang mahal<br/>Tiada noda dan cela</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bukan dengan emas perak<br/>Kau menebus diriku<br/>Oleh segenap kasih<br/>Dan pengorbananMu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Ku telah mati dan tinggalkan<br/>Cara hidupku yg lama<br/>Semuanya sia-sisa<br/>Dan tak berarti lagi</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Hidup ini kuletakkan<br/>Pada mezbahMu ya Tuhan<br/>Jadilah padaku seperti<br/>Yang kau ingin</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

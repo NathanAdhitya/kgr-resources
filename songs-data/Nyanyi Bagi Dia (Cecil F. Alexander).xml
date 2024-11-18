@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:20">
+  <properties>
+    <titles>
+      <title>Nyanyi Bagi Dia</title>
+    </titles>
+    <authors>
+      <author>Cecil F. Alexander</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ANGKATLAH SUARA-MU<br/>PUJI DAN SERUKAN NAMA YESUS<br/>TANGGALKAN BEBAN-MU TAK PERLU KAU KUATIR<br/>S'BAB DIA SANGGUP</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>GERAKKAN KAKIMU<br/>MENARILAH DAN BERTEPUK TANGAN<br/>BERSUKACITALAH TAK PERLU KAU KUATIR<br/>S'BAB DIA SANGGUP</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>S'KARANG NYANYIKAN KEBESARAN-NYA<br/>DIA KUAT DAN PENUH KUASA<br/>BERSORAK-SORAI KAR'NA KASIH-NYA<br/>T'LAH DATANG MELAWAT KITA<br/>NYANYI BAGI DIA</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

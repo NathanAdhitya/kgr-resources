@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:12">
+  <properties>
+    <titles>
+      <title>Ku Gembira Kau berkata</title>
+    </titles>
+    <authors>
+      <author>PS 325</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ku gembira kau berkata, "Mari hadap Tuhanmu." <br/>Selangkah hati kubawa ke gerbang Yerusalem.<br/>Wahai kawan, bergegaslah rintis jalan ke surga.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ku bersyukur dalam hati kar'na perlindungan-Mu. <br/>Ku berharap saat nanti Kau taburkan rahmat-Mu.<br/>Wahai kawan, bergegaslah rintis jalan ke surga.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

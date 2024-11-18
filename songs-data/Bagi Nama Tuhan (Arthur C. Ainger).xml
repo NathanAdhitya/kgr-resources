@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:23">
+  <properties>
+    <titles>
+      <title>Bagi Nama Tuhan</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Bagi nama Tuhan <br/>Kemuliaan, kejayaan<br/>NamaMu berkuasa diam dalam hadiratMu<br/>Engkau tetap Tuhan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kutinggikan di atas s’galanya<br/>Tempat ini dipenuhi nama Tuhan</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Hati kami dipenuhi <br/>G’reja kami dipenuhi<br/>Kota kami dipenuhi<br/>Bumi ini dipenuhi nama Tuhan</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

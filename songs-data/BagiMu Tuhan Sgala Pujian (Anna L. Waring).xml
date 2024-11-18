@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:23">
+  <properties>
+    <titles>
+      <title>BagiMu Tuhan Sgala Pujian</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Di hati-Mu terukir namaku<br/>Di mata-Mu terlukis wajahku<br/>Bukan karna kuat gagahku<br/>Namun hanya karna kemurahan-Mu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Meski terkadang aku terjatuh<br/>Tak pernah lelah Kau hampiriku<br/>Memelukku dengan cinta-Mu<br/>Betapa besar mulia kasih-Mu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Bagi-Mu Tuhan s'gala pujian<br/>Hormat kemuliaan<br/>Tiada ternilai salibMu Tuhan<br/>Sungguh berharga Engkau Yesus</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Hu-uu<br/>Meski terkadang aku terjatuh<br/>Tak pernah lelah Kau hampiriku<br/>Memelukku dengan cinta-Mu</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Betapa besar mulia kasih-Mu<br/>Kasih-Mu<br/>Sembah ya<br/>Kasih-Mu<br/>Kasih-Mu Tuhan</lines>
+    </verse>
+    <verse name="v1f">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

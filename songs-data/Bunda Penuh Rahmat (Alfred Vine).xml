@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:15">
+  <properties>
+    <titles>
+      <title>Bunda Penuh Rahmat</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Bunda Maria<br/>Bunda Penuh Rahmat<br/>Kami anakmu<br/>Datang padamu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hatimu suci tak bercela<br/>Jiwamu murni tak bernoda</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Ave... Ave... Ave Maria Gratia Plena<br/>Ave... Ave... Ave Maria Gratia Plena Mater Dei</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

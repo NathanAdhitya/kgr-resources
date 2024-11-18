@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>Tuhanku yang hebat</title>
+    </titles>
+    <authors>
+      <author>NDC</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kau yang hidup di dalamku<br/>Menjadikanku lebih dari pemenang<br/>Seluruh bumi tinggikan nama-Mu<br/>Menyatakan kebesaran dan keagungan-Mu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Yesus Tuhanku pemenang, Raja segala raja<br/>Perbuatan-Mu ajaib dan perkasa<br/>Kaulah Tuhanku yang hebat, kuasa iblis dikalahkan<br/>Surga bumi bersorak</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

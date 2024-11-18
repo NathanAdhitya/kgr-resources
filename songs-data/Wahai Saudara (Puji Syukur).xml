@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>Wahai Saudara</title>
+    </titles>
+    <authors>
+      <author>Puji Syukur</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Wahai saudara siapkanlah diri<br/>Mari menghadap Tuhan Allahmu<br/>Mari saudara satukanlah hati<br/>Di dalam kurban Kristus Tuhanmu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kita pendosa yang diundang pesta<br/>Memuliakan Allah Tuhan kita<br/>Marilah menghadap Tuhan Allahmu<br/>Di dalam kurban Kristus Tuhanmu</lines>
+    </verse>
+  </lyrics>
+</song>

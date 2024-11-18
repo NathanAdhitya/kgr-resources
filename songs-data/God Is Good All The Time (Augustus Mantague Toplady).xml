@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:15">
+  <properties>
+    <titles>
+      <title>God Is Good All The Time</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>God is good all the time<br/>He put a song of praise in this heart of mine<br/>God is good all the time<br/>Through the darkest night, His light will shine<br/>God is good, God is good all the time</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>If you're walking through the valley<br/>And there are shadows all around<br/>Do not fear, He will guide you<br/>He will keep you safe and sound<br/>He has promised to never leave you</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Nor forsake you, and His word is true</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>We were sinners and so unworthy<br/>Still for us He chose to die<br/>Filled us with His Holy Spirit, now we can stand and testify<br/>That His love is everlasting<br/>And His mercies, they will never end</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Though I may not understand all the plans you have for me<br/>My life is in your hands and through the eyes of faith<br/>I can clearly see</lines>
+    </verse>
+    <verse name="v1f">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

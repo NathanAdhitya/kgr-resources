@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Feliz navidad</title>
+    </titles>
+    <authors>
+      <author>Aku kepunyaan-Mu Yesus</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Feliz navidad<br/>Feliz navidad<br/>Feliz navidad, prospero año y felicidad</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Feliz navidad<br/>Feliz navidad<br/>Feliz navidad, prospero año y felicidad</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>I want to wish you a merry Christmas<br/>I want to wish you a merry Christmas<br/>I want to wish you a merry Christmas from the bottom of my heart</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>I want to wish you a merry Christmas<br/>I want to wish you a merry Christmas<br/>I want to wish you a merry Christmas from the bottom of my heart</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Feliz navidad<br/>Feliz navidad<br/>Feliz navidad, prospero año y felicidad</lines>
+    </verse>
+    <verse name="v1f">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>Yesus KemuliaanMu</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>S'gala pujian syukur bagiMu<br/>Kau hadir dalam hidupku<br/>Kini, ku datang sujud di hadapanMu<br/>MemujiMu, menyembahMu<br/>Yesus ku menyembahMu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>S'gala pujian syukur bagiMu<br/>Kau hadir dalam hidupku<br/>Kini, kudatang sujud di hadapanMu<br/>MemujiMu, menyembahMu<br/>Yesus ku menyembahMu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Yesus ku menyembahMu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Yesus KemuliaanMu, pulihkan hatiku<br/>Yesus KemuliaanMu, berkati hidupku</lines>
+    </verse>
+  </lyrics>
+</song>

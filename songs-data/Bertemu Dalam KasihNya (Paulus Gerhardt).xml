@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:23">
+  <properties>
+    <titles>
+      <title>Bertemu Dalam KasihNya</title>
+    </titles>
+    <authors>
+      <author>Paulus Gerhardt</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Bertemu dalam kasihNya<br/>Berkumpul dalam anug’rahNya<br/>Bersukacita semua<br/>Di dalam rumah Tuhan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>O saudaraku dan kau saudariku<br/>Tuhan cinta dan mengasihiMu<br/>Mari bersukacita semua<br/>Di dalam rumah Tuhan</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:14">
+  <properties>
+    <titles>
+      <title>TUHAN AMBIL HIDUPKU (PS 376)</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tuhan, ambil hidupku dan kuduskan bagiMu<br/>waktuku pun pakailah memujiMu s'lamanya.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tanganku gerakkanlah, kasihMu pendorongnya,<br/>dan jadikan langkahku berkenan kepadaMu.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Buatlah suaraku hanya mengagungkanMu<br/>dan sertakan lidahku jadi saksi InjilMu.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

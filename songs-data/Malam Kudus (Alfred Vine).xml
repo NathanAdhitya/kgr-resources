@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:23">
+  <properties>
+    <titles>
+      <title>Malam Kudus</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Silent night, holy night!<br/>All is calm, and all is bright<br/>Round yon Virgin, Mother and Child<br/>Holy infant so tender and mild</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sleep in heavenly peace<br/>Sleep in heavenly peace</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Malam kudus, sunyi senyap,<br/>bintang-Mu gemerlap<br/>Jurus'lamat manusia,<br/>ada datang di dunia</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Kristus Anak Daud,<br/>Kristus Anak Daud</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

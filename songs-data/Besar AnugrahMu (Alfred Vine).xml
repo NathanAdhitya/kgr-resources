@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:23">
+  <properties>
+    <titles>
+      <title>Besar AnugrahMu</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ku Ada Sebagaimana ‘Ku Ada<br/>Berdiri Menghadap Tahta-Mu Bapa<br/>Semua Kar’Na Anug’Rah-Mu<br/>Yang T’Lah S’Lamatkanku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ku Hidup Dalam S’Gala Kelimpahan<br/>Ku Layak Untuk Melayani Tuhan<br/>Semua Kar’Na Anug’Rah-Mu<br/>Tercurah Bagiku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Besar Anug’Rah-Mu<br/>Berlimpah Kasih-Mu<br/>Semakin Hari, S’Makin Bertambah<br/>Besar Anug’Rah-Mu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

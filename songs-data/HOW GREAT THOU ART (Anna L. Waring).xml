@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>HOW GREAT THOU ART</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Oh Lord, my God<br/>When I, in awesome wonder<br/>Consider all the worlds Thy hands have made<br/>I see the stars, I hear the rolling thunder<br/>Thy power throughout the universe displayed</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Then sings my soul, My Saviour God, to Thee,<br/>How great Thou art, How great Thou art.<br/>Then sings my soul, My Saviour God, to Thee,<br/>How great Thou art, How great Thou art!</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

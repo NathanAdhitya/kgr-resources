@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:09">
+  <properties>
+    <titles>
+      <title>Biarkanku MenyembahMu</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Engkau tahu dihatiku<br/>Ada sejuta rindu<br/>Tuk selalu bersamamu yesusku<br/>Ijinkanku menyenangkan hatimu<br/>Lewat nyanyian hatiku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Biarkanlah kumenyembah<br/>Walau tak dengan puisi yang indah<br/>Biarkanlah kumenyembah<br/>Memberikan hati ini</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Ku berserah<br/>Dengan penuh<br/>Kasih sayang<br/>Biarkan Tuhan aku<br/>Menyembah</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

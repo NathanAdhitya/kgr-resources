@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:13">
+  <properties>
+    <titles>
+      <title>Shout to the lord</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>My Jesus, my Saviour....Lord, there is none like You<br/>All of my days I want to praise<br/>The wonders of your mighty love<br/>My comfort, my shelter...tower of refuge and strength<br/>Let every breath, all that I am...never cease to worship you</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Shout to the Lord all the earth, let us sing<br/>Power and majesty praise to the King<br/>Mountains bow down and the seas will roar<br/>At the sound of your name</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>I sing for joy at the work of Your hands<br/>Forever I'll love You, forever I'll stand<br/>Nothing compares to the promise I have in You</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

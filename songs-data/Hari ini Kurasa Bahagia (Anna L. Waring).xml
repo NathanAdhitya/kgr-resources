@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Hari ini Kurasa Bahagia</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hari ini ku rasa bahagia<br/>Berkumpul bersama saudara seiman<br/>Tuhan Yesus t’lah satukan kita<br/>Tanpa memandang di antara kita</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bergandengan tangan<br/>dalam kasih dalam satu hati<br/>Berjalan dalam terang kasih Tuhan<br/>Kau saudaraku, kau sahabat ku<br/>Tiada yang dapat memisahkan kita</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

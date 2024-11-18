@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:09">
+  <properties>
+    <titles>
+      <title>Maka jiwaku pun memuji</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>OH TUHANKU BILA KUTERPESONA<br/>MENYAKSIKAN CIPTAANMU SEMUA<br/>KUSAKSIKAN BINTANG, GURUH, ANGKASA<br/>TANDA KEBESARANMU DI DUNIA</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>MAKA JIWAKU PUN MEMUJIMU<br/>AJAIB TUHAN AJAIB TUHAN<br/>MAKA JIWAKU PUN MEMUJIMU<br/>AJAIB TUHAN AJAIB TUHAN</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

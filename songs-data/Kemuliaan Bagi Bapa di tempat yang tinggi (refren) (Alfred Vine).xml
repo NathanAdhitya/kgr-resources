@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:22">
+  <properties>
+    <titles>
+      <title>Kemuliaan Bagi Bapa di tempat yang tinggi (refren)</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kemuliaan bagi Allah<br/>Di tempat yang maha tinggi<br/>Kemuliaan bagi Yesus<br/>Tuhan yang mem'rintah<br/>Atas segalanya<br/>Raja segala Raja</lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

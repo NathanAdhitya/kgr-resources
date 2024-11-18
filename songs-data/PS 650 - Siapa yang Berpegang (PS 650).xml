@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>PS 650 - Siapa yang Berpegang</title>
+    </titles>
+    <authors>
+      <author>PS 650</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Siapa yang berpegang pada sabda Tuhan<br/>dan setia mematuhiNya,<br/>hidupnya mulia dalam cah’ya baka<br/>bersekutu dengan Tuhannya.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Percayalah dan pegang sabda-Nya,<br/>Hidupmu dalam Yesus sungguh bahagia.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kasih-Nya yang kekal tak’kan kita kenal<br/>sebelum pada-Nya berserah<br/>Hidup bahagia disediakan-Nya,<br/>bagi yang berpegang pada-Nya.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Percayalah dan pegang sabda-Nya,<br/>Hidupmu dalam Yesus sungguh bahagia.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

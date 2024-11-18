@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:20">
+  <properties>
+    <titles>
+      <title>Oleh kuasa darah-Mu</title>
+    </titles>
+    <authors>
+      <author>Nikita</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Saat ku masuk, kehadiratMU<br/>Bawa persembahan ketempat kudusMU<br/>Pujian ku naikan sembah ku berikan<br/>BagiMU Allah yang Mulia</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kau layakkan ku, menghampiriMU<br/>Melihat Tahta kemuliaanMU TUHAN<br/>Pujian ku naikkan sembah ku berikan<br/>BagiMU ALLAH yang mulia</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Oleh kuasa darahMU, KAU telah tebus dosaku<br/>KekudusanMU melingkupiku<br/>KasihMU, mengalir memulihkan hidupku<br/>Sungguh besar anugrahMU, KAU selamatkan hidupku<br/>Kumenjadi ciptaan yang baru,<br/>Oleh kuasa darahMU</lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

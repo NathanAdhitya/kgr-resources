@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>PS 714 - Yesus Jurus'lamat Kami</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Yesus, Juruslamat kami, atas maut kau menang<br/>Perhatikanlah umatMu yang mengikut wafatMu<br/>Ya Yesus, dengarkanlah seruan umatMu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Yesus, Dikau Sang Penghibur bagi orang yang sedih<br/>Lipurlah hati umatMu dan teguhkan imannya<br/>Ya Yesus, dengarkanlah seruan umatMu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

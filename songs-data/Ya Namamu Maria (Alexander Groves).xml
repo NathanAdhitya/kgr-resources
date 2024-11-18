@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>Ya Namamu Maria</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ya namamu Maria, bunda yang kucinta<br/>Merdu menawan hati, segala anakmu<br/>Patutlah nama itu hidup di batinku<br/>Dan nanti kuucapkan di saat ajalku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ya nama yang keramat perisai hidupku<br/>Dengan nama Maria aku pasti menang<br/>Patutlah nama itu hidup di batinku<br/>Dan nanti kuucapkan di saat ajalku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Bila hatiku risau dan dirundung duka<br/>Kuingat nama Ibu yang pasti menghibur<br/>Patutlah nama itu hidup di batinku<br/>Dan nanti kuucapkan disaat ajalku<br/>Dan nanti kuucapkan disaat ajalku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

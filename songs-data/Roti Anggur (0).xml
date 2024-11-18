@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>Roti Anggur</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>AMBILAH ROTI INI <br/>TIAP KAU LAKUKAN INGATLAH YESUS<br/>ROTI INI TUBUHNYA<br/>DIPECAHKAN UNTUK-MU.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>AMBILAH MAKANLAH<br/>TIAP KAU LAKUKAN INGATLAH YESUS<br/>AMBILAH CAWAN INI<br/>TIAP KAU LAKUKAN INGATLAH YESUS<br/>CAWAN PERJANJIAN BARU<br/>YANG DIBUAT UNTUKMU</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>AMBILAH MINUMLAH <br/>TIAP KAU LAKUKAN INGATLAH YESUS</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

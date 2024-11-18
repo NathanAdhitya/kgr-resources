@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>Hidup Ini Adalah Kesempatan</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hidup ini adalah kesempatan<br/>Hidup ini untuk melayani Tuhan<br/>Jangan sia-sia kan waktu yang Tuhan beri<br/>Hidup ini hanya sementara</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sekuntum bunga di pagi hari<br/>Mekar indah harum di padang yang hijau<br/>Demikian Tuhan mendandani rumput<br/>Gugur bunga bila panas terik</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Oh Tuhan pakailah hidupku<br/>Selagi aku masih kuat<br/>Suatu saat aku tak berdaya<br/>Hidup ini sudah jadi berkat</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

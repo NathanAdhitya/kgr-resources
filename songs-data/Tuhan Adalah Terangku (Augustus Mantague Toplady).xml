@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:14">
+  <properties>
+    <titles>
+      <title>Tuhan Adalah Terangku</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Satu hal yang pinta, ini yang kuingini<br/>Berada dekatMu, saksikan kemurahanMu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tuhan adalah terangku, penuntun hidupku<br/>Kau buat ku hidup di dalam rencanaMu<br/>Tiada ku takut, tiada ku gentar<br/>Bersama denganMu yang aku percaya</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+    <verse name="v1d">
+      <lines>Satu hal yang ku tahu, ini yang ku ingini<br/>Menikmati kasih, di dalam anug’rahMu</lines>
+    </verse>
+  </lyrics>
+</song>

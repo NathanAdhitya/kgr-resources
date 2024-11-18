@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:12">
+  <properties>
+    <titles>
+      <title>Kemuliaan bagi Tuhan</title>
+    </titles>
+    <authors>
+      <author>Benjamin R. Hanby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>KEMULIAAN BAGI TUHAN<br/>DI TEMPAT MAHA TINGGI<br/>KAU RAJA DIAGUNGKAN DAN DIPUJI</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>DATANGLAH KERAJAAN-MU<br/>JADILAH KEHENDAK-MU<br/>S'LURUH BUMI PENUH KEMULIAAN-MU</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

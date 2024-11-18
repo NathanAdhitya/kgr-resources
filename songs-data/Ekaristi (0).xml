@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:11">
+  <properties>
+    <titles>
+      <title>Ekaristi</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Mari memuji Karya Ilahi,<br/>Ekaristi Sakramen yang Suci.<br/>Mari bersyukur kepada Tuhan,<br/>atas kasih yang seagung ini.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Peziarahan umat beriman,<br/>merindukan perjamuan Tuhan.<br/>Dipersatukan kita semua,<br/>dalam kurban cinta maha mulia.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Dengan menyambut, Tubuh dan Darah-Nya.<br/>Hadirlah Kristus, menguatkan jiwa.<br/>Di dalam kebenaran sabda-Nya,<br/>iman kita diteguhkan.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Kita diutus, membawa damai,<br/>mewartakan kabar suka cita.<br/>Berbagi cinta, pada sesama, slamanya.</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

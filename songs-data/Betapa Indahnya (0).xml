@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:23">
+  <properties>
+    <titles>
+      <title>Betapa Indahnya</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Saat jiwa dahaga dan lapar, Engkau puaskan kami<br/>dengan santapan rohani, Tubuh dan Darah nan suci</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Saat jiwa mengering dan hampa, Engkau segarkan kami<br/>dengan santapan surgawi, Tubuh dan Darah nan suci</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Betapa indahnya perjamuan kudus, <br/>betapa indahnya saat kami menyambutMu<br/>Betapa indahnya kehadiranMu,<br/>yang bertahta kuatkan iman kami.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

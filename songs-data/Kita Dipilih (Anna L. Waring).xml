@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:22">
+  <properties>
+    <titles>
+      <title>Kita Dipilih</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kita Dipilih Dari s'gala Bangsa<br/>Kita Dipilih Jadi Umat-Nya<br/>Kita Dipilih Dan Dikuduskan-Nya<br/>Membawa Kemuliaan Hanya Bagi-Nya</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Terimalah Kemuliaan Dan Hormat Kami<br/>Terimalah Sembah Kami, Pujian Kami<br/>Terimalah Kemuliaan Dan Hormat Kami<br/>Terimalah Sembah Dan Pujian Kami</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

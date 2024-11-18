@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:14">
+  <properties>
+    <titles>
+      <title>Aku dengar bisikan suara-Mu</title>
+    </titles>
+    <authors>
+      <author>PS 695</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Aku dengar bisikan suara-Mu,<br/>menggema lembut didalam batinku.<br/>Sungguh Engkau sahabatKu,<br/>jikalau engkau menaati perintahKu.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Pergilah dan sebarkanlah, kabar sukacita-Ku!<br/>Sampai akhir zaman, Aku serta-Mu.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Bukanlah engkau yang memilih-Ku, <br/>melainkan Aku yang memilihmu.<br/>Kini Aku serahkan tugas,<br/>supaya engkau menghasilkan buah limpah.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Pergilah dan sebarkanlah, kabar sukacita-Ku!<br/>Sampai akhir zaman, Aku serta-Mu.</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

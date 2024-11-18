@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>Kemenangan Terjadi Disini</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ku menyembah<br/>Dalam kudus hadiratMu<br/>Hampiri<br/>Tahta kasih karuniaMu, Bapa</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kekuatanku<br/>Hanya dalam hadiratMu<br/>Yesusku<br/>Hanya Kaulah segalanya</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>'Ku yakin Kau hadir di sini<br/>Kurasakan kuasa yang tak terbatas<br/>'Ku yakin Kau nyata di sini<br/>Kemenangan terjadi di sini</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

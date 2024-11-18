@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:13">
+  <properties>
+    <titles>
+      <title>Sambutlah Yesus</title>
+    </titles>
+    <authors>
+      <author>Benjamin R. Hanby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Dia sungguh indah, Dia Yesus<br/>Dia ajaib, Dia mulia, Dia agung<br/>Dia cinta daku dan ampuniku<br/>Bahkan rela b'rikan nyawa-Nya<br/>Tuk s'lamatkanku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sambutlah Yesus, Tinggikan Yesus<br/>B'ri Dia hormat, pujian dan kuasa<br/>Yesus Raja</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Bagi Yang Mulia, kuangkat tanganku<br/>Kau 'ku puja, 'ku cinta, 'ku sembah<br/>Haleluya</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Kau 'ku puja, 'ku cinta, 'ku sembah<br/>Haleluya<br/>Ho, Kau 'ku puja, 'ku cinta, 'ku sembah<br/>Haleluya</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

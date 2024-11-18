@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:22">
+  <properties>
+    <titles>
+      <title>Liturgi Untuk Paskah</title>
+    </titles>
+    <authors>
+      <author>PS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>UMAT BERLUTUT</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>LILIN DIMATIKAN</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>LILIN DINYALAKAN</lines>
+    </verse>
+  </lyrics>
+</song>

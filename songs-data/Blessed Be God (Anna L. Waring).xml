@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Blessed Be God</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Blessed are you, Lord, God of all creation<br/>Thanks to Your goodness this bread we offer<br/>Fruit of the earth, work of our hands<br/>it will become the bread of life</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Blessed be God<br/>Blessed be God<br/>Blessed be God forever, Amen</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>S'bab Kau besar</title>
+    </titles>
+    <authors>
+      <author>Citra</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ku b'ri kemuliaan dan hormat<br/>Ku angkat suara pujian kuagungkan nama-Mu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>S'bab Kau besar perbuatan-Mu ajaib<br/>Tiada seperti Engkau<br/>Tiada seperti Engkau...</lines>
+    </verse>
+  </lyrics>
+</song>

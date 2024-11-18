@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 540 - Ajaib Kau Tuhan</title>
+    </titles>
+    <authors>
+      <author type="words">Aku kepunyaan-Mu Yesus</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ajaib Tuhanku, sungguh dahsyat kuasa-Nya: <br/>aku ditebus dengan darah kudus-Nya.<br/>Patut aku lambungkan mazmur dan syukur,<br/>kar'na kasih Tuhan ku tetap abadi.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bagaimanakah 'kan kubalas kasih-Nya: <br/>aku diberi hidup yang penuh arti<br/>kar'na jadi saksi-Nya dan utusan-Nya:<br/>mewartakan Injil-Nya pada sesama.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Dalam nama-Nya 'ku telah diangkat-Nya, <br/>agar hidupku kudus dan tak bercela.<br/>Dan di dalam kasih-Nya yang tak terkira<br/>aku dijadikan-Nya anak Bapa-Nya.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kasih Tuhan, sungguh besar, rahmat Tuhan tak terperi.<br/>Yesus Tuhanku, penebus, penolongku.<br/>Ajaiblah Tuhan, Jurus'lamatku.</lines>
+    </verse>
+  </lyrics>
+</song>

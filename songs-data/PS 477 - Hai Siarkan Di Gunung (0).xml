@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>PS 477 - Hai Siarkan Di Gunung</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hai siarkan di gunung di bukit dan di mana jua,<br/>hai siarkan di gunung lahirnya Almasih!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ketika penggembala menjaga dombanya,<br/>terpancar dari langit cahaya mulia.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Terbaring di palungan yang hina dan rendah,<br/>Sang Bayi menyampaikan selamat dunia.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

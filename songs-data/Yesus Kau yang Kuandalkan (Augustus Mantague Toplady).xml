@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>Yesus Kau yang Kuandalkan</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kuperlu Engkau Yesus<br/>Haus jiwaku menantikanMu<br/>Kupercaya Kau penuh<br/>Pengharapanku di dalamMu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Yesus hanya Kau yang kuandalkan<br/>Melebihi siapapun juga<br/>Yesus hanya Kau yang kupercaya<br/>Di setiap waktu<br/>Tiada lain yang kuandalkan<br/>Selain Kau Yesus</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>HikmatMu lebihi pikiranku<br/>JalanMu di atas segala jalanku<br/>Tinggi dan dalamnya kasihMu<br/>Hanya Kau Yesus yang kuandalkan</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

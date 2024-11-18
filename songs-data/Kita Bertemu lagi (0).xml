@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>Kita Bertemu lagi</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kita bertemu lagi tuk’ puji Tuhan<br/>Kita bertemu lagi dalam kasih<br/>Sesuatu pasti terjadi untuk kebaikan kita<br/>Kita bertemu lagi tuk’ puji Tuhan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kita bertemu tuk’ menyembah Tuhan<br/>Kita bertemu saling mengasihi<br/>Kita bertemu saling menyembuhkan<br/>Puji Dia Glory Haleluya puji namaNya</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:09">
+  <properties>
+    <titles>
+      <title>Walau seribu rebah</title>
+    </titles>
+    <authors>
+      <author>Nikita</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tiada pernah kuragukan<br/>Kasih setia-Mu ya Tuhan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Setiap waktu dalam hidupku<br/>Tak pernah Kau tinggalkan</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Meski langit tampak suram<br/>Awan gelap pun menghadang</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Hadapi badai lewati gelombang<br/>Tak pernah Kau tinggalkan diriku</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Walau seribu rebah di sisiku<br/>Kau tetaplah Allah penolongku</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Walau sepuluh ribu rebah di kananku<br/>Takkan kugoyah s'bab Yesus sertaku</lines>
+    </verse>
+  </lyrics>
+</song>

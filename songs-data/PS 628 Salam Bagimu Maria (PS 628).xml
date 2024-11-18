@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>PS 628 Salam Bagimu Maria</title>
+    </titles>
+    <authors>
+      <author>PS 628</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Salam bagimu, Maria, putri yang penuh berkat<br/>Kau dimuliakan di Surga, kau bagaikan malaikat.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dikau sungguh terberkati, tanganmu penuh rahmat.<br/>Dunia sudah dis’lamatkan lewat sikap patuhmu.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kau lahirkan Sang Cahya, Juru s’lamat dunia,<br/>yang mengantarkan kembali domba-domba yang sesat.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Doakanlah kami, Bunda hati kami kuatkan,<br/>agar kami s’lalu tabah menghadapi godaan.</lines>
+    </verse>
+  </lyrics>
+</song>

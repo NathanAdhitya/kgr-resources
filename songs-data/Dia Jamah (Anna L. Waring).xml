@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Dia Jamah</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Dia jamah sg’nap hidupku dan b’ri damai di hatiku<br/>Semua t’lah berubah dan aku tau, Yesus jamah ‘ku jadi baru</lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

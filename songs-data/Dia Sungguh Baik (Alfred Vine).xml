@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:15">
+  <properties>
+    <titles>
+      <title>Dia Sungguh Baik</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Dia mati bagiku, Dia bangkit bagiku<br/>Dia Tuhan Allah penyelamatku<br/>Kuasa maut dikalahkan, hidupku dipulihkan<br/>Dia Tuhan Allah kem'nanganku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dia sungguh baik, Dia sangat baik<br/>Yesus Dia baik bagiku (2x)</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Dia ada dalamku, bergerak di hidupku<br/>Dia Tuhan Allah kekuatanku<br/>Dia penuhi hatiku, dengan kuasa kasihNya<br/>Dia Tuhan Allah kem'nanganku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>He is so good to you, He is so good to me<br/>Jesus - He's so good to you and me</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

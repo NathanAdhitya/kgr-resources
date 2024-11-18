@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:23">
+  <properties>
+    <titles>
+      <title>Bersyukurlah</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Haleluya ku memuji-Mu Tuhan<br/>Kar'na kasih-Mu tak berkesudahan<br/>Biar yang bernafas memuji sang Raja<br/>Di atas gunung dan di dalam samudera (Semua)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tanganku kuangkat pada-Mu<br/>Mensyukuri rahmat yang Kau b'ri (kakiku)<br/>Kakiku melompat bagi-Mu<br/>S'bab rahmatMu baru s'tiap pagi (Semuanya)</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Bersyukurlah kepada Tuhan<br/>Sebab Ia baik, sebab Ia baik<br/>Bahwasanya untuk s'lamanya<br/>Kasih setia-Nya, kasih setia-Nya</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Nana-nana-na<br/>Nana-nana-na<br/>Nana-nana-na</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:14">
+  <properties>
+    <titles>
+      <title>Terimalah Di HatiMu</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Bersujud kami di altarMu, bersyukur kami kepadaMu<br/>atas kasih kemurahanMu, yang hadir setia selalu<br/>Inilah yang kami miliki, harapan dan niat yang murni<br/>jadi abdi cinta sejati, berkarya setulus hati</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Trimalah ya Tuhan di hatiMu, persembahan kami umatMu<br/>ubahlah roti dan anggur ini, jadi Tubuh dan Darah nan suci<br/>sumber nadi iman insani</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:22">
+  <properties>
+    <titles>
+      <title>Lebih dalam kumenyembah</title>
+    </titles>
+    <authors>
+      <author>True Worshiper</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Sungguh besar setia-Mu<br/>Nyata di sepanjang hidupku<br/>Darah-Mu telah layakkan kehidupanku</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tiada kata yang bisa<br/>Lukiskan indahnya Kau Tuhan<br/>Bagimu s'gala pujian dan kemuliaan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kutinggikan Engkau Tuhan<br/>Melebihi segalanya<br/>Lebih dalam kumenyembah<br/>Dalam roh dan kebenaran<br/>Selamanya...</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>Kau yang terindah</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kau yang terindah didalam hidup ini,<br/>Tiada Allah Tuhan yang seperti Engkau besar perkasa penuh kemuliaan.<br/>Kau yang termanis didalam hidup ini,<br/>Ku cinta Kau lebih dari segalanya besar kasih setiaMu kepadaku.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ku sembah Kau ya Allahku<br/>Ku tinggikan namamu selalu<br/>Tiada lutut kan berteluk<br/>Menyembah Yesus Tuhan Rajaku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Ku sembah Kau ya Allahku<br/>Ku tinggikan namamu selalu<br/>Tiada lidah tak mengaku<br/>Engkaulah Yesus Tuhan Rajaku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

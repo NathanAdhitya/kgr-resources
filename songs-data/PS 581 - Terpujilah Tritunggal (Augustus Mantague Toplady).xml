@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>PS 581 - Terpujilah Tritunggal</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Terpujilah Tritunggal mahakudus<br/>terpujilah Tuhan, Allah kita yang esa</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Engkau, ya Bapa, sudah menunjukkan belas kasihan<br/>dan kerahimanMu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Megah karyaMu di sekuruh bumi<br/>di dunia barat dan benua timur</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Bersama-sama, kami, umat Tuhan<br/>berpuji syukur bagi Dikau, Tuhan</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Kami puji, kami puji Bapa, Putra dan Roh Kudus</lines>
+    </verse>
+    <verse name="v1f">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

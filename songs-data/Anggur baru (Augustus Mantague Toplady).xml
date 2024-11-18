@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:09">
+  <properties>
+    <titles>
+      <title>Anggur baru</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Roh kudus tercurah di tempat ini<br/>Urapan-Nya yang ajaib, memulihkan umat-Nya<br/>Roh kudus tercurah bagi G'reja-Nya<br/>Membangkitkan umat pilihan-Nya</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hari inilah harinya Tuhan<br/>Saat pembebasan tiba<br/>Belenggu dosa t'lah dipatahkan<br/>Mari bersorak bagi dia</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Anggur baru tercurah<br/>Penuhi umat-Nya dengan sukacita<br/>Minyak baru tercurah<br/>Urapi umat-Nya, nyata kuasa-Nya</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Nyata kuasaNya</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 527 - Sang Kristus sudah Bangkit</title>
+    </titles>
+    <authors>
+      <author>PS 527</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Sang Kristus sudah bangkit, cerahlah dunia, <br/>memancar dari salib, cahaya benderang.<br/>Bersoraklah memuji, sang Kristus yang menang.<br/>Madahkan kemenangan, hai sluruh dunia.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Terpuji Kristus pemenang, lenyaplah maut yang kejam.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Semua musuh Tuhan bersumbar tak henti, <br/>merasa mengalahkan yang wafat di salib.<br/>Ketika Yesus bangkit dengan kuasaNya,<br/>betapa musah takut, ngeri melihatnya.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

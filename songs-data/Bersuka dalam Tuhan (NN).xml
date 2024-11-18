@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:23">
+  <properties>
+    <titles>
+      <title>Bersuka dalam Tuhan</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>HARI INI HARI YANG TELAH DIJADIKAN TUHAN<br/>MARI KITA BERSUKA<br/>HARI INI HARI YANG TELAH DIJADIKAN TUHAN<br/>MARI KITA BERSUKA<br/>DALAM TUHAN BERSUKA.... DALAM TUHAN</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>BERSUKA, BERSUKA DALAM TUHAN<br/>MARI BERSUKA, BERSUKACITALAH<br/>BERSUKA, BERSUKA DALAM TUHAN<br/>S'KARANG BERSUKA, BERSUKACITALAH</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

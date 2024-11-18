@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>Remember me</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>In the night in which our Saviour was betray'd,<br/>He broke the bread and to His friends, He said:<br/>Take and eat, this is my body giv'n for you<br/>take and drink, this blood of mine is shed for you.<br/>Do this always to remember me<br/>Remember me</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>In the night in which our Savior was denied,<br/>He bowed His head, and to the Father cried:<br/>If it be your will, let this cup pass from me;<br/>If it be your will, spare me this agony.<br/>In my darkest hour will you remember me ?<br/>Remember me</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>In the night in which my deepest doubt are known, <br/>You come to me and I am not alone.<br/>When I taste your blood and body giv'n for me,<br/>When I hear your prayer in dark Gethsemane,<br/>Then I know you will remember me<br/>Remember me</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>O Lord, remember me. Remember me.</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

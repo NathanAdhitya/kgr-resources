@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:25">
+  <properties>
+    <titles>
+      <title>Kasih Allah tak berkesudahan</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kasih Allah tak berkesudahan<br/>S'lalu baru setiap pagi<br/>Rahmatnya pun tak pernah berakhir<br/>Seumur hidupku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dengan sukacita ku 'kan menari<br/>Dengan sorak sorai memuji<br/>Kunaikan pujian haleluya<br/>Nyanyi bagi Dia sang Raja</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Nyanyi bagi Dia sang Raja</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>S'karang nyanyikan kebesaran-nya<br/>Dia kuat dan penuh kuasa<br/>Bersorak-sorai kar'na kasih-nya<br/>T'lah datang melawat kita<br/>Nyanyi bagi dia</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

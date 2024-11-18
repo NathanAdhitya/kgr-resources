@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Hati Hamba</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ku Tak Dapat Lupakan Kebaikan Yang Ku T’rima<br/>Pengorbananmu Yang Mulia Jadikan Ku Berharga<br/>Kau Tulus Menerima Aku Apa Adanya<br/>Kekuatan Kasihmu Nyata Memulihkan Hidupku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kau Bukan Tuhan Yang Melihat Rupa<br/>Kau Bukan Tuhan Yang Memandang Harta<br/>Hati Hamba Yang S’lalu Kau Cari<br/>Biar Kau Temukan Di Dalamku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>S’lama Ku Hidup Ku Mau Menyembah-Mu<br/>S’bab Engkau Sangat Berarti Bagiku<br/>Yang Terbaik Yang Ada Padaku<br/>Kupersembahkan Kepadamu Yesusku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:22">
+  <properties>
+    <titles>
+      <title>Lahir di hatiku</title>
+    </titles>
+    <authors>
+      <author>Aku kepunyaan-Mu Yesus</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>KasihMu Temukanku<br/>Berharga Di MataMu<br/>Kau Berikan HidupMu<br/>Menjadi Manusia</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Di Tengah Gelap Dunia<br/>TerangMu B'ri Harapan<br/>Kau Tinggalkan Semua<br/>Untuk S'lamatkanku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Dan Ku Akan Memuji NamaMu<br/>S'lamanya Hanya Menyembah<br/>Kau Yesus<br/>Kau Juru S'lamatku<br/>Lahir Di Hatiku<br/>Mengubah Hidupku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

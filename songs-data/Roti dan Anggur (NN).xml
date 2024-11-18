@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>Roti dan Anggur</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ambillah Roti ini <br/>S'tiap kau lakukan, ingatlah Yesus<br/>Roti ini Tubuh-Nya, dipecahkan untukmu<br/>Ambillah, Makanlah,<br/>S'tiap kau lakukan, Ingatlah Yesus.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ambillah cawan ini<br/>S'tiap kau lakukan, ingatlah Yesus<br/>Cawan perjanjian baru, yang dibuat untukmu<br/>Ambillah, Minumlah,<br/>S'tiap kau lakukan, Ingatlah Yesus.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

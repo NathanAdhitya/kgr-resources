@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:20">
+  <properties>
+    <titles>
+      <title>PS 382 - Ambilah Tuhan</title>
+    </titles>
+    <authors>
+      <author>PS 382</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ambillah Tuhan kemerdekaanku<br/>Dan kehendak serta pikiranku<br/>T'rimalah Tuhan yang ada padaku<br/>Gunakanlah menurut jasaku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hanya rahmat dan kasih dari-Mu<br/>Yang kumohon menjadi hartaku<br/>Hanya rahmat dan kasih dari-Mu<br/>Kumohon menjadi hartaku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

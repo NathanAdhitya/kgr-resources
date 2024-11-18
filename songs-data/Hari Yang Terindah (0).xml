@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:09">
+  <properties>
+    <titles>
+      <title>Hari Yang Terindah</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>HARI YANG TERINDAH<br/>KETIKA KU JUMPA</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>DENGAN YESUS YANG MENJADI KEKASIH HATIKU</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>WALAU BANYAK RINTANGAN<br/>JALAN YANG DIHADAPKAN</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>KASIHNYA KINI JADI KUATKU</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>DI HATIKU ADA CINTANYA<br/>DI HATIKU KUCINTA PADANYA</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>KUINGIN SELALU MENDENGAR SUARANYA<br/>BERTUMBUH DALAM IMAN KEPADANYA</lines>
+    </verse>
+    <verse name="v1g">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

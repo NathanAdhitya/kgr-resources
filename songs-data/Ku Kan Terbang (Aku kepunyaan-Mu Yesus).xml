@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:22">
+  <properties>
+    <titles>
+      <title>Ku Kan Terbang</title>
+    </titles>
+    <authors>
+      <author>Aku kepunyaan-Mu Yesus</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Firman-Mu Tuhan p’lita bagi kakiku<br/>Janji-Mu terang bagi jalan-jalanku<br/>Kebenaran-Mu menuntunku s’tiap hari<br/>Ku menantikan-Mu beri kekuatan baru</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ku kan terbang tinggi di awan<br/>Bersama-Mu dalam kemuliaan<br/>S’bab Firman-Mu teguh menopang<br/>Ku ‘kan aman dalam-Mu Tuhan</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Jalan-Mu di atas jalan-jalanku<br/>Rancangan-Mu melebihi rancanganku<br/>Firman-Mu sungguh t’lah membebaskanku<br/>Berjalan lebih tinggi, berjalan bersama-Mu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

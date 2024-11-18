@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>Kau sangat kucinta</title>
+    </titles>
+    <authors>
+      <author>Franky Shiombing</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Bersyukur selalu bagi kasih-Mu<br/>Di dalam hidupku<br/>Dan takkan kuragu atas rencana-Mu<br/>'Tuk masa depanku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>S'bagai Bapa yang baik<br/>Takkan pernah Kau melupakanku<br/>S'bagai Bapa yang sangat baik<br/>Takkan pernah Kau meninggalkanku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Ku 'kan menari dan bersuka<br/>Kar'na-Mu, oh, Yesusku<br/>Dan ku 'kan minum air-Mu<br/>Bagai rusa, rindu selalu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Ku hidup dalam-Mu<br/>dan hidup-Mu di dalamku<br/>Oh, Yesusku<br/>Kau sangat kucinta...</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

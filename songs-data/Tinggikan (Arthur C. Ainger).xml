@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>Tinggikan</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Yesus, ijin aku berseru bermazmur bagi namaMU<br/>Dalam setiap langkahku<br/>Kaulah tempat perlindunganku kota benteng hidupku<br/>Allah kes’lamatanku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tinggikan Engkau, agungkan Engkau<br/>Kau Allah dahsyat di hidupku<br/>Kuangkat suaraku kupuji namaMu<br/>Kau Raja...Kau kes'lamatanku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

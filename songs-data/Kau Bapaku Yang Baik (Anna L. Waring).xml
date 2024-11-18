@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>Kau Bapaku Yang Baik</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Engkau Bapa yang mengasihiku<br/>Tak Kau pandang bentuk dan rupaku<br/>Engkau mengasihiku dengan sepenuh hati<br/>Tak pernah sama seperti dunia ini</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Engkau Bapa yang mengajariku<br/>Melewati awan yang kelabu<br/>Kau buatku terbang bagaikan rajawali<br/>Mengatasi segala pencobaan</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kau Bapaku yang baik<br/>Mengerti bahasa tetesan air mata<br/>Tak Kau biarkan kuberjalan sendirian<br/>Sebab Kau Bapaku yang baik</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Kau Bapaku yang baik<br/>Mengerti bahasa tetesan air mata<br/>Tak Kau biarkan kuberjalan sendirian<br/>Sebab Kau Bapaku yang baik<br/>Engkau sungguh baik</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>PS 656 - Tuhan Allah Gembalaku</title>
+    </titles>
+    <authors>
+      <author>PS 656</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tuhan Allah Gembalaku; 'ku tak kekurangan, <br/>dibimbing-Nya ke-rumputan, ke air yang tenang.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dan disegarkan jiwaku, dituntun oleh-Nya <br/>meniti jalan yang benar di dalam nama-Nya.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Pun pada jalan yang gelap tidaklah 'ku gentar, <br/>sebab Engkau, penjagaku, bersamaku, s'lalu.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

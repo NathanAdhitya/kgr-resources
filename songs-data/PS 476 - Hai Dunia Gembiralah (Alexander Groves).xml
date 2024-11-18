@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 476 - Hai Dunia Gembiralah</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hai dunia, gembiralah dan sambut Rajamu!<br/>Di ha-ti-mu terimalah!<br/>Bersama bersyukur, bersama bersyukur,<br/>bersama-sama bersyukur!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hai dunia, elukanlah Rajamu, Penebus!<br/>Hai bumi, laut, gunung, lembah,<br/>bersoraklah terus, bersoraklah terus,<br/>bersorakl-soraklah terus!</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Janganlah dosa menetap di ladang dunia.<br/>Sejahtera penuh berkat<br/>berlimpah s'lamanya, berlimpah s'lamanya,<br/>berlimpah-limpah s'lamanya.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Dialah Raja semesta, benar dan mulia.<br/>Masyhurkanlah, hai dunia,<br/>besar anug'rah-Nya, besar anug'rah-Nya,<br/>besar-besar anug'rah-Nya</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

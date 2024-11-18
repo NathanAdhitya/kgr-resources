@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>Kaulah Harapan</title>
+    </titles>
+    <authors>
+      <author>Sari Simorangkir</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>BUKAN DENGAN KEKUATANKU<br/>KU DAPAT JALANI HIDUPKU<br/>TANPA TUHAN YANG DI SAMPINGKU<br/>KU TAK MAMPU SENDIRI<br/>ENGKAULAH KUATKU YANG MENOPANGKU</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>KUPANDANG WAJAH-MU DAN BERSERU<br/>PERTOLONGANKU DATANG DARI-MU<br/>PEGANGLAH TANGANKU, JANGAN LEPASKAN<br/>KAULAH HARAPAN DALAM HIDUPKU</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

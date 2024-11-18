@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>Tinggikan diri-Mu</title>
+    </titles>
+    <authors>
+      <author>GMB</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kubersyukur padaMu Tuhan atas kasihMu<br/>Dan bermazmur bagi namaMu yang kudus<br/>Sbab Engkau kebenaranku<br/>PadaMu kupercaya<br/>Betapa muliaNya Tuhanku<br/>Kurindu menyatakan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tinggikan diriMu mengatasi langit<br/>KebesaranMu Tuhan mengatasi bumi<br/>Tinggikan diriMu mengatasi langit<br/>KemuliaanMu Tuhan mengatasi bumi</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

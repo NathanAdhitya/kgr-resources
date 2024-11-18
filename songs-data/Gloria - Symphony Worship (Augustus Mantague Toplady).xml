@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:15">
+  <properties>
+    <titles>
+      <title>Gloria - Symphony Worship</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kami datang bawa pujian<br/>Bersama memujiMu Tuhan<br/>Satukan suara dan nyanyikan<br/>Sorak kemenangan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Glo-o-o-o-o-o-oo-ria, glo-o-o-o-o-o-oo-ria<br/>Besar Tuhan ditinggikan<br/>Di atas s'galanya<br/>Glo-o-o-o-o-o-oo-ria, glo-o-o-o-o-o-oo-ria<br/>Besar Tuhan ditinggikan<br/>Puji Dia gloria</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kami datang bawa pujian<br/>Bersama memujiMu Tuhan<br/>Satukan suara dan nyanyikan<br/>Sorak kemenangan<br/>Kami datang bawa pujian<br/>Bersama memujiMu Tuhan<br/>Satukan suara dan nyanyikan<br/>Sorak kemenangan</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>We give You glory, we give You honour<br/>We give You praise for all that You are<br/>We give You glory, we give You honour<br/>We give You praise, glo-o-oo-ria<br/>We give You glory, we give You honour<br/>We give You praise for all that You are<br/>We give You glory, we give You honour<br/>We give You praise, glo-o-oo-ria<br/>We give You glory, we give You honour<br/>We give You praise for all that You are<br/>We give You glory, we give You honour<br/>We give You praise…</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Gloria!</lines>
+    </verse>
+    <verse name="v1f">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

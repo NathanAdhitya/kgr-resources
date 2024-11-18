@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 512 - Salib Di Puncak Golgota</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Salib di puncak Golgota, Salib yang mulia,<br/>Salib di puncak Golgota, Salib yang mulia.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sumber rahmat ilahi, sumber tak kunjung kering,<br/>yang memberi kehidupan. Salib yang mulia.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Pohon berbuah cinta, altar tempat Sang Kurban,<br/>pandu pejalan yang aman. Salib yang mulia.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Kayu tempat Penebus, yang meretas belenggu,<br/>dan melepas dari maut. Salib yang mulia.</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Tugu pahlawan suci, dan mercu suar terang,<br/>kau-lah penunjuk ke Surga. Salib yang mulia.</lines>
+    </verse>
+  </lyrics>
+</song>

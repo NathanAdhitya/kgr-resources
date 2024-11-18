@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>Tatum Ergo</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>SAKRAMEN YANG SUNGGUH AGUNG<br/>MARI KITA MULIAKAN<br/>SURUT SUDAH HUKUM LAMPAU<br/>TATA BARU TAMPILLAH<br/>KAR’NA INDRA TIDAK MAMPU, IMAN JADI TUMPUAN</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>YANG BERPUTRA DAN SANG PUTRA<br/>DIMULIAKAN DISEMBAH, DIHORMATI DAN DIPUJA<br/>BESERTA DENGAN SANG ROH<br/>MUNCUL DARI KEDUANYA, DAN SETARA DISEMBAH</lines>
+    </verse>
+  </lyrics>
+</song>

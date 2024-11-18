@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>Yesus Kami Puja</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Yesus, Kami Puja...Kami Sembah S'bagai Raja<br/>Berdiri Di Tengah Kami Ditinggikan Dan Dipuji</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sembah Dan Puji, P'nuhi Tahtamu<br/>Sembah Dan Puji, P'nuhi Tahtamu<br/>Sembah Dan Puji, P'nuhi Tahtamu<br/>Yesus Tuhan Adalah Raja</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

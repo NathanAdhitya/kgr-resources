@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>claire benediction</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>May the Lord show His mercy upon you<br/>May the light of His presence be your guide<br/>May He guard you and uphold you<br/>May His spirit be ever by your side</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>When you sleep, may His angels watch over you<br/>When you wake, may He fill you with His grace<br/>May you love Him and serve Him all your days<br/>Then in heaven may you see His face</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>May the Lord show His mercy upon you<br/>May the light of His presence be your guide<br/>May He guard you and uphold you<br/>May His spirit be ever by your side</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>When you sleep, may His angels watch over you<br/>When you wake, may He fill you with His grace<br/>May you love Him and serve Him all your days<br/>Then in Heaven may you see His face<br/>Then in Heaven may you see His face<br/>May you see His face</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

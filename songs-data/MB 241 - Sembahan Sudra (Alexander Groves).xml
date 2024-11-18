@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:23">
+  <properties>
+    <titles>
+      <title>MB 241 - Sembahan Sudra</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tuhan sang Maha narendra<br/>Kubawa sembahan Sudra<br/>Karena Kau angkat putra<br/>Sembahan Sudra berharga</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sang Narendra maha tinggi<br/>Kami datang menghaturkan<br/>Hati kami persembahan Sudra</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>CintaMu menjunjung kami<br/>Supaya pantas berbakti<br/>RahmatMu pantang berhenti<br/>Balasan ku tak berarti</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

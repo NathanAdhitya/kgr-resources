@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:23">
+  <properties>
+    <titles>
+      <title>Mengikut Yesus</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>S’mua kar’na anug’rahMU, hari ini ada<br/>Bukan kar’na kuatku,namun kar’na RohMu<br/>Ku bawa hatiku, penyembahanku<br/>Ku s’makin berkurang, Yesus s’makin bertambah</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mengikut Yesus itulah kesukaan hatiku<br/>Ku lepas semua hakku untuk<br/>Mengenal kehendak-Nya di hidupku<br/>Mengiring Yesus itulah kekuatan hidupku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Ku yakin anug’rah-Nya mampu<br/>Jadikanku hamba yang berkenan slalu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Dengar Dia Panggil Nama Saya</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Dengar Dia panggil nama saya<br/>Dengar Dia panggil namamu<br/>Dengar Dia panggil nama saya<br/>Juga Dia panggil namamu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Oh giranglah 2x<br/>Yesus amat cinta pada saya<br/>Oh giranglah</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kujawab ya.ya.ya. 2x<br/>Kujawab ya Tuhan 2x<br/>Kujawab ya,ya,ya</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:12">
+  <properties>
+    <titles>
+      <title>Ku mau s'perti-Mu Yesus</title>
+    </titles>
+    <authors>
+      <author>Bagaikan Bejana</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Bagaikan bejana siap dibentuk<br/>Demikian hidupku di tangan-Mu<br/>Dengan urapan kuasa Roh-Mu<br/>Ku dibaharui selalu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Jadikan ku alat dalam rumah-Mu<br/>Inilah hidupku di tangan-Mu<br/>Bentuklan s'turut kehendak-Mu<br/>Pakailah sesuai rencana-Mu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Ku mau s'perti-Mu Yesus, disempurnakan selalu<br/>Dalam seg'nap jalanku, memuliakan nama-Mu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

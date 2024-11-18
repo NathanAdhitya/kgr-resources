@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 455 - Gembala Pergilah Cepat</title>
+    </titles>
+    <authors>
+      <author>Aku kepunyaan-Mu Yesus</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Gembala pergilah cepat-cepat, <br/>Menuju Betlehem.<br/>Pergilah mencari di Betlehem,<br/>Sang Raja Israel.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sang Sabda kini menjelma <br/>Menjadi manusia.<br/>Lekaslah berjumpa dengan Tuhan,<br/>Almasih yang mulia.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Yang Maha tinggi dan kekal <br/>Berkunjung di dunia.<br/>Lekaslah mencari Allah kekal<br/>Yang datang di dunia.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Yang Maha kaya dan mulia <br/>Berhamba di dunia.<br/>Lekaslah mencari Allah mulia<br/>Pelayan dunia.</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

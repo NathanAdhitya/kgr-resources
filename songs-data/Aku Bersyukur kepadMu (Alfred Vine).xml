@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:25">
+  <properties>
+    <titles>
+      <title>Aku Bersyukur kepadMu</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ku bersyukur pada-Mu ya Tuhan berkat Ekaristi-Mu<br/>yang menjadi santapan jiwa dan memuaskan dahaga</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ku bersyukur pada-Mu ya Tuhan berkat Ekaristi-Mu<br/>yang jadi kekuatan iman wartakan cinta Tuhan.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kasih-Mu agung selalu menghantar aku pada-Mu<br/>memahami kehendak-Mu untuk membawa damai-Mu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Kasih-Mu agung selalu cahaya lubuk hatiku<br/>dalam setiap langkahku melaksanakan firman-Mu.</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

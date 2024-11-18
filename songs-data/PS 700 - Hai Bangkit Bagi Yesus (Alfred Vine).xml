@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>PS 700 - Hai Bangkit Bagi Yesus</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hai bangkt bagi Yesus pahlawan salibNya<br/>Anjungkan panji raja dan jangan menyerah.<br/>Dengan semakin jaya Tuhanmu ikutlah<br/>Sehingga tiap lawan berlutut menyembah.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hai bangkit bagi Yesus dan mohon dayaNya<br/>Tenagamu sendiri tentu tak cukuplah.<br/>Kenakan perlengkapan senjata Roh Kudus<br/>berjaga dan berdoa, bersiaplah terus</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

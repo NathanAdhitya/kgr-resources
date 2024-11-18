@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:14">
+  <properties>
+    <titles>
+      <title>Sukacita surga</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>T'rima sukacita Surga<br/>Itulah kekuatan bagi jiwa<br/>Ku dapat rasakan kasihNya<br/>Di tengah badai yang bergelora</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>T'rima sukacita Surga<br/>Itulah kekuatan bagi jiwa<br/>Ku dapat saksikan kuasaNya<br/>Takhlukkan badai yang bergelora</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Haleluya..<br/>Kau ada dalam hatiku<br/>Takkan patah semangatku<br/>Takkan hilang kekuatanku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Haleluya..<br/>Ku mau bersorak bagiMu<br/>Sukacita Surga nyata penuhiku</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

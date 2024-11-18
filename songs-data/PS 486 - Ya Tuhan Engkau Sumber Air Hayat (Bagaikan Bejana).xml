@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 486 - Ya Tuhan Engkau Sumber Air Hayat</title>
+    </titles>
+    <authors>
+      <author>Bagaikan Bejana</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ya Tuhan, Engkau sumber air hayat<br/>Yang minum air yang Engkau berikan<br/>tak 'kan haus lagi s'lamanya<br/>Kau puaskan hatinya sampai kekal</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ya Tuhan, Engkaulah terang di dunia<br/>siapa yang ikut Engkau tak sesat<br/>Kau datang supaya yang buta celik<br/>tak lagi melangkah di jalan gelap</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Engkau juru s'lamat, ya Yesus Tuhan<br/>kepadaMu saja ku taat penuh</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

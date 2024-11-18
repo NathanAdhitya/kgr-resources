@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>PS 601 - Kasihanilah UmatMu Tuhan</title>
+    </titles>
+    <authors>
+      <author>Benjamin R. Hanby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kasihanilah umatMu Tuhan<br/>karna Maharahim Engkau<br/>Dan hapuskan dosa, salah kami<br/>karna darah putraMu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kami bagai anak-anak hilang<br/>yang telah pergi dariMu<br/>PadaMu sekarang kami pulang<br/>dalam tobat yang penuh</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Hati kami buatlah bersih<br/>dan sanubari pun berseri<br/>agar bersorak-sorai lidah kami<br/>mewartakan kasihMu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

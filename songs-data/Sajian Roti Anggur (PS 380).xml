@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:13">
+  <properties>
+    <titles>
+      <title>Sajian Roti Anggur</title>
+    </titles>
+    <authors>
+      <author>PS 380</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Sajian roti anggur, Ya Bapa trimalah,<br/>jadikan Tubuh Kristus dan Darah Suci-Nya,<br/>yang taat sampai mati demi manusia;<br/>derita, dosa kami dihapus oleh-Nya.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Pandanglah kami Bapa dengan penuh belas,<br/>jadikan persembahan bersama Sang Putera.<br/>Sucikan hati kami di dalam Darah-Nya;<br/>sesudah purna bakti, di surga trimalah.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

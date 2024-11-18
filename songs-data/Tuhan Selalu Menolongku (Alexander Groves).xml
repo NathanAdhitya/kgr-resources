@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>Tuhan Selalu Menolongku</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Musim akan selalu berganti<br/>Kasih Tuhan tetap abadi<br/>Tak akan berubah, sampai selamanya<br/>Ku tetap percaya</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kuyakin Tuhan memberkati<br/>Ku yakin Tuhan melindungi<br/>Burung di udara Tuhan pelihara<br/>Karena kasih-Nya.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Tuhan selalu menolongku<br/>Selalu menjagaku<br/>Sehelai di rambutku<br/>Tak akan terjatuh tanpa seizin-Mu.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Dia mengenyangkanku dan peliharaku<br/>Seumur hidupku<br/>Ha-aa ha-ya</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:13">
+  <properties>
+    <titles>
+      <title>Shout to the lord (Indonesia)</title>
+    </titles>
+    <authors>
+      <author>Aku kepunyaan-Mu Yesus</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Yesus ku, penyelamatku,<br/>tiada yang seperti Engkau,<br/>setiap hari, ku memuji, keajaiban kasihMU,</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Penghibur, pelindung, menara kekuatan,<br/>biarlah semua, yang bernafas,<br/>tak henti menyembahMU,</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Nyanyi dan bersoraklah bagi DIA,<br/>pujian hormat kuasa bagi raja,<br/>gunung tunduk, laut bergelora,<br/>mendengar namaMU,</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>ku bersuka atas perbuatanMU,<br/>selamanya ku kasihi Engkau TUHAN,<br/>tiada janji seperti yang ada padaMU</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

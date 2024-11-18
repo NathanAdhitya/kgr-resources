@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:23">
+  <properties>
+    <titles>
+      <title>Betapa Hatiku</title>
+    </titles>
+    <authors>
+      <author>Benjamin R. Hanby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Betapa hatiku berterima kasih, Yesus<br/>Kau mengasihiku<br/>Kau memilikiku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hanya ini Tuhan, persembahanku<br/>Segenap hidupku, jiwa, dan ragaku<br/>Sebab tak ku miliki harta kekayaan<br/>Yang cukup berarti 'tuk kupersembahkan</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Hanya ini Tuhan, permohonanku<br/>Terimalah Tuhan persembahanku<br/>Pakailah hidupku sebagai alat-Mu<br/>Seumur hidupku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

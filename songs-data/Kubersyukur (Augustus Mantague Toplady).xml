@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:22">
+  <properties>
+    <titles>
+      <title>Kubersyukur</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Apa yang tak pernah kubayangkan<br/>Apa yang tak pernah kuimpikanItu yang Kau b'rikan bagiku<br/>Kau mengerti segala kebutuhanku<br/>Kini kudatang di hadapanMu<br/>Membawa pujian syukurku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>T'rimakasih ya Bapaku<br/>Buat kasihMu yang Kau sediakan bagiku<br/>Kubersyukur s'tiap waktu<br/>S'bab Kau Bapaku yang setia</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

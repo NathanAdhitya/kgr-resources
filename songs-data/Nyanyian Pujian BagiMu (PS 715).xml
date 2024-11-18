@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:20">
+  <properties>
+    <titles>
+      <title>Nyanyian Pujian BagiMu</title>
+    </titles>
+    <authors>
+      <author>PS 715</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>NYANYI PUJIAN BAGIMU TUHAN<br/>PUJIAN BAGIMU TUHAN<br/>NAMA-MU BESAR DAN LAYAK DI PUJI<br/>NYANYI PUJIAN BAGIMU TUHAN<br/>PUJIAN BAGIMU TUHAN<br/>NAMA-MU BESAR DAN LAYAK DI PUJI</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>KUAGUNGKAN NAMA-MU TUHAN<br/>AGUNG NAMA-MU TUHAN<br/>NAMA-MU BESAR DAN LAYAK DI PUJI</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>I SING PRAISES TO YOUR NAME, OH LORD<br/>PRAISES TO YOUR NAME, OH LORD<br/>FOR YOUR NAME IS GREAT<br/>AND WORTHY TO BE PRAISED<br/>I SING PRAISES TO YOUR NAME, OH LORD<br/>PRAISES TO YOUR NAME, OH LORD<br/>FOR YOUR NAME IS GREAT<br/>AND WORTHY TO BE PRAISED</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>I GIVE GLORY TO YOUR NAME, OH LORD<br/>GLORY TO YOUR NAME, OH LORD<br/>FOR YOUR NAME IS GREAT<br/>AND WORTHY TO BE PRAISED<br/>I GIVE GLORY TO YOUR NAME, OH LORD<br/>GLORY TO YOUR NAME, OH LORD<br/>FOR YOUR NAME IS GREAT<br/>AND WORTHY TO BE PRAISED</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

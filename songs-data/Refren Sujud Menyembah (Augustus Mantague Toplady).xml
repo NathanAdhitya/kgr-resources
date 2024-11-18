@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>Refren Sujud Menyembah</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ku datang sujud menyembah<br/>Ku rasakan hadiratMu<br/>Menikmati Kau Tuhan<br/>Ada kekuatan ada kedamaian</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ku datang sujud menyembah<br/>Ku rasakan jamahanmu<br/>KuasaMu bekerja memulihkanku<br/>Yesus Engkau yang ku sembah</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

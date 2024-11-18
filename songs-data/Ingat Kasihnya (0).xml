@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>Ingat Kasihnya</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>BEGITU BESAR KASIHMU BAPA<br/>KAU B'RIKAN ANAKMU YANG TUNGGAL<br/>DI SAAT AKU PERCAYA<br/>KASIH MENYELAMATKANKU</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>BUKAN SEBAGAI HAKIM DUNIA<br/>TAPI PENY'LAMAT YANG BERKORBAN<br/>UNTUK DIRIKU KAU TEBUSKU<br/>KASIH MENYELAMATKANKU</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>INGAT KASIHNYA YANG MENGUBAH HIDUPKU<br/>INGAT KASIHNYA YANG SELALU ADA<br/>KASIH YESUS, KASIH YESUS BAGIKU<br/>INGAT BILURNYA YANG SEMBUHKAN LUKAKU<br/>INGAT SALIBNYA YANG MENEBUS AKU<br/>KASIH YESUS, KASIH YESUS BAGIKU</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

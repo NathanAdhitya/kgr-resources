@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>KUBERSYUKUR BUAT KASIHMU</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>SAAT KU TAK BERDAYA<br/>YESUS YANG S’LALU MENOPANGKU<br/>SAAT TIADA HARAPAN<br/>KAULAH HARAPANKU</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>KUBERSYUKUR BUAT KASIHMU<br/>YANG S’LALU BARU TIAP HARI<br/>KUBERSYUKUR BUAT KASIHMU<br/>YANG TAK PERNAH TINGGALKANKU<br/>KAU S’LALU ADA BAGIKU<br/>SUNGGUH KAU BAPAKU YANG BAIK</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

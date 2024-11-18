@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:23">
+  <properties>
+    <titles>
+      <title>Berharga di mata-Mu (Maka jiwaku menyembah)</title>
+    </titles>
+    <authors>
+      <author>True Worshiper</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Dan bila malamku<br/>Gelap tak berbintang<br/>Hanya Engkaulah pelitaku<br/>Menerangi jalanku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Walau ku terjatuh<br/>Hilang dan tersesat<br/>Namun tetap Kau memandangku<br/>Berharga di mata-Mu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Maka jiwaku menyembah<br/>Kau Penebus mulia<br/>Darah Anak Domba<br/>Kudus dan perkasa</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Maka jiwaku menyembah<br/>Kau Penebus mulia<br/>Darah yang tercurah<br/>Bukti kasih termegah<br/>Jadikanku berharga</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Jadikanku berharga...</lines>
+    </verse>
+    <verse name="v1f">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

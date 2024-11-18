@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>Trimalah Ya Tuhan</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kami menyanyi lagunya asli, lalala lalalalala <br/>sambil membawa sembahan kami</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Mari kita sembahkan ke depan altar suci<br/>semua karya bakti dan abdi, karunia kasih ilahi, kasih abadi</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Mari kita alunkan biola dan serunai<br/>sambil bernyanyi alleluya, sambil bernyanyi alleluya, glory alleluya</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Trimalah ya Tuhan bakti kreasi kami<br/>hanyalah alunan melodi, biola gitar dan serunai, sajian kami</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Trimalah ya Tuhan roti dan anggur ini<br/>tanda cinta bakti dan abdi, di depan altarMu yang suci, berkati kami</lines>
+    </verse>
+    <verse name="v1f">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

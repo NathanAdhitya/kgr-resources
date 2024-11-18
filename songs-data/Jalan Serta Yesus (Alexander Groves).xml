@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:25">
+  <properties>
+    <titles>
+      <title>Jalan Serta Yesus</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Jalan serta Yesus <br/>jalan sertaNya setiap hari<br/>Jalan serta Yesus<br/>serta Yesus slamanya</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Jalan dalam suka, <br/>jalan dalam duka<br/>Jalan sertaNya setiap hari<br/>Jalan dalam suka,<br/>jalan dalam duka<br/>Serta Yesus selamanya</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

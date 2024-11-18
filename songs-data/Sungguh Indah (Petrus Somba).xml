@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>Sungguh Indah</title>
+    </titles>
+    <authors>
+      <author>Petrus Somba</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ke manakah aku dapat pergi?<br/>Menjauhi rohMu yang suci<br/>Kau sahabat dan Kau dekat</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bahkan seluruh pengabdianku<br/>Tak bisa membalas kesetiaanMu<br/>Sungguh mulia dan berharga</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Sungguh besar pengorbananMu bagiku<br/>Terlalu dalam untuk dimengerti<br/>Sungguh besar</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Sungguh indah yang Kau pikirkan tentangku<br/>Tak terselami bagiku<br/>Sungguh indah</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

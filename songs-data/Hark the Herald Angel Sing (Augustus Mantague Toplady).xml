@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Hark the Herald Angel Sing</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hark! the herald angels sing<br/>Glory to the newborn King<br/>Peace on earth, and mercy mild<br/>God and sinners reconciled</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Joyful, all ye nations, rise<br/>Join the triumph of the skies<br/>With th' angelic host proclaim<br/>Christ is born in Bethlehem<br/>Hark, the herald angels sing<br/>Glory to the newborn King</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Hail, the heav'n-born Prince of peace<br/>Hail! the Son of Righteousness<br/>Light and life to all he brings<br/>Risen with healing in his wings</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Mild he lays his glory by<br/>Born that man no more may die<br/>Born to raise the some of earth<br/>Born to give them second birth<br/>Hark! the herald angels sing<br/>Glory to the newborn King</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+    <verse name="v1f">
+      <lines>Gloria, in excelsis Deo!<br/>Gloria, in excelsis Deo!</lines>
+    </verse>
+  </lyrics>
+</song>

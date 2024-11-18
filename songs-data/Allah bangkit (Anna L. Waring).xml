@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:14">
+  <properties>
+    <titles>
+      <title>Allah bangkit</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kerahkanlah kekuatanMu ya Allah<br/>Tunjukkanlah kuasaMu ya Tuhan<br/>Serakkan musuhMu<br/>S’lamatkanlah umatMu<br/>Allah dahsyat di tempat kudusNya</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Allah bangkit, bersoraklah<br/>Allah bangkit, bernyanyilah<br/>Musuh dikalahkan<br/>UmatNya dibebaskan<br/>Allah dahsyat di tempat kudusNya</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

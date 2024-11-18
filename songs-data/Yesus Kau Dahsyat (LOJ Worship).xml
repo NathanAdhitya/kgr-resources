@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>Yesus Kau Dahsyat</title>
+    </titles>
+    <authors>
+      <author>LOJ Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Yesus Kaulah s'galanya, yang kuperlu<br/>Dalam setiap langkahku, takkan goyah imanku<br/>Di dalam-Mu<br/>Hidupku ini milik-Mu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dengan darah<br/>Kau bebaskanku<br/>Dengan salib<br/>Kau pulihkan masa depanku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Yesus Kau Allah yang tak pernah berubah<br/>Dulu s'karang dan s'lamanya<br/>Yesus kubersorak tinggikan namamu<br/>S'bab Engkau dahsyat dan luar biasa</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

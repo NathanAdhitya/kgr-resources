@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>PS 644 - Santo Yusuf Yang Menjaga</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Santo Yusuf yang menjaga<br/>keluarga Nazaret<br/>kau menjaga bunda kudus,<br/>juga Yesus Penebus.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sudilah doakan kami pada Yesus, anakmu<br/>dan lindungilah selalu kami sekeluarga</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Ditengah mara bahaya<br/>beri kami harapan<br/>kuatkanlah iman kami<br/>agar jangan tersesat</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Bapa Yusuf, antar kami kehadirat Yesusmu<br/>agar kami berbahagia dalam hidup yang kekal.</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

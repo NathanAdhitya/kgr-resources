@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:09">
+  <properties>
+    <titles>
+      <title>Allah sumber kuatku</title>
+    </titles>
+    <authors>
+      <author>nn</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hanya Kau milikku di surga<br/>Tiada yang kuingini di bumi, Hanya Kau</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>'Tak kuandalkan kekuatanku<br/>Namun, yang pasti Kau tetap s'lamanya</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Allah, sumber kuatku (3x)</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Dan bagianku s'lamanya<br/>Selamanya...</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:22">
+  <properties>
+    <titles>
+      <title>Kutetap cinta, Kutetap setia</title>
+    </titles>
+    <authors>
+      <author>Grezia</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ku tetap cinta<br/>Ku tetap cinta<br/>Walau badai datang menerpa<br/>Ku tetap cinta</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ku tetap setia<br/>Ku tetap setia<br/>Walau taufan datang menerpa<br/>Ku tetap setia</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Terlalu banyak yang Tuhan telah beri<br/>Takkan mungkin kubalas dari apa yang kumiliki<br/>Kupersembahkan seluruh hidupku<br/>Dan ku tetap cinta biar ku tetap setia untuk selama-lamanya</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

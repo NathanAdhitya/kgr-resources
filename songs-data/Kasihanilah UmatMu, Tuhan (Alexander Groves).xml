@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:25">
+  <properties>
+    <titles>
+      <title>Kasihanilah UmatMu, Tuhan</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kasihanilah umat Mu, Tuhan karna maharahim Engkau<br/>Dan hapuskan dosa salah kami, karna darah PutraMu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Hati kami buatlah bersih dan sanubaripun berseri,<br/>Agar bersorak sorai lidah kami mewartakan kasihMu<br/>Kami bagai anak-anak hilang yang telah pergi dariMu<br/>PadaMu sekarang kami pulang dalam tobat yang penuh</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

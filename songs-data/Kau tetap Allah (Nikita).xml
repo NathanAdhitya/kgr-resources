@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>Kau tetap Allah</title>
+    </titles>
+    <authors>
+      <author>Nikita</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Betapa dahsyat Engkau Tuhan Pencipta segala yang ada<br/>Dulu, sekarang, sampai selamanya<br/>Hanya Engkau Tuhan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tak terselami Pikiran-Mu, Tak terukur panjang setia-Mu<br/>Dulu, sekarang, sampai selamanya<br/>Hanya Engkau Tuhan</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kusembah Engkau Yesus<br/>Hanya Engkau Allah di hidupku<br/>Tiada yang lain, hanya Kau<br/>Hanya Engkau Tuhan</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Selamanya Kau tetap Allah<br/>Walau dunia semua bergoncang<br/>Tak tergoyahkan<br/>Kau tetap Allah</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

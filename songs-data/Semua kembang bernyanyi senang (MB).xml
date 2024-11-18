@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:20">
+  <properties>
+    <titles>
+      <title>Semua kembang bernyanyi senang</title>
+    </titles>
+    <authors>
+      <author>MB</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Semua kembang bernyanyi senang <br/>Giranglah hatiku<br/>Pun rumput serta bernyanyi senang<br/>Tuhanlah sumber sukaku</lines>
+    </verse>
+    <verse name="v1a">
+      <lines>Semua jalan di dunia ke surga mengantarmu<br/>dan desiran angin ria, ke Surga membawamu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Disemua lorong bumi, hadirlah sahabatmu <br/>Perhatian dari kawan, membangkitkan kasihmu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

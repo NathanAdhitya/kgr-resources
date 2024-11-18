@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 456 - Para Malaikat Bernyanyi</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Para malaikat bernyanyi<br/>Di tengah malam sepi.<br/>Bergema di padang sunyi<br/>Warta suka surgawi.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Glo ...........................ria<br/>In ex-celsis Deo.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Tampaklah utusan surga<br/>Yang bersinar mulia.<br/>Penggembala pun takutlah<br/>Menyaksikan sinarnya.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Hari ini lahir Kristus, <br/>Jurus'lamat dunia.<br/>Bayi yang terbungkus lampin,<br/>Di palungan tidur-Nya.</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Dan gembala pun pergilah,<br/>Kota Daud arahnya.<br/>Mari kita pun memuji<br/>Dan bernyanyi tak henti.</lines>
+    </verse>
+    <verse name="v1f">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

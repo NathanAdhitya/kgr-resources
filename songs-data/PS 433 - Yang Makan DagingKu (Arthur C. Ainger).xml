@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 433 - Yang Makan DagingKu</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Yang makan daging-Ku dan minum darah-Ku <br/>'kan tinggal pada-Ku dan Aku padanya.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Yang makan daging-Ku dan minum darah-Ku <br/>'kan jadi hamba-Ku dan Aku Tuhannya.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Yang makan daging-Ku dan minum darah-Ku <br/>'kan mengasihi-Ku, serta sesamanya.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Yang makan daging-Ku dan minum darah-Ku <br/>bahagia hidupnya selama-lamanya.</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

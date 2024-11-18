@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:11">
+  <properties>
+    <titles>
+      <title>Kami Trima Kuasa Tuhan</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kami yang t'lah ditebus dengan darah yang kudus<br/>Mengangkat pujian bagiMu<br/>Kami bait kudusMu s'bagai bukti karyaMu<br/>Nyatakan Kau besar dan hidup</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kami t'rima kuasaMu Tuhan<br/>Kami t'rima kemenangan yang<br/>Engkau sediakan 'tuk kami bawa di setiap langkah<br/>Dimanapun kami berdiri<br/>Kemanapun kami 'kan pergi<br/>Disitu pasti mujizatMu terjadi</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

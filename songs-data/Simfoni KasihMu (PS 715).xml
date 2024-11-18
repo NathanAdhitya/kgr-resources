@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:16">
+  <properties>
+    <titles>
+      <title>Simfoni KasihMu</title>
+    </titles>
+    <authors>
+      <author>PS 715</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kau merangkai jagat raya<br/>Yang terbingkai indah di semesta<br/>Tak terhitung bintang-bintang<br/>Menerangi seisi dunia</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Karya-Mu mengagumkan<br/>Sungguh ku jatuh cinta</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Simfoni yang indah<br/>Hati yang rindu menyembah<br/>Ceritakan karya kasih-Mu<br/>S'panjang hidupku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Karya kasih-Mu<br/>S'panjang hidupku</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>PS 552 - Terpuji Raja Kristus</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Terpuji Raja Kristus selama-lamanya<br/>yang rela menderita: besarlah kasih-Nya!<br/>Pencinta yang setia, teladan yang benar.<br/>Terpuji Raja Kristus selama-lamanya</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Terpuji Raja Kristus selama-lamanya<br/>Sebagai tanda kasih disediakan-Nya<br/>santapan yang mulia, yaitu diri-Nya<br/>Terpuji Raja Kristus selama-lamanya</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Terpuji Raja Kristus selama-lamanya<br/>Gembala yang utama, pembela domba-Nya.<br/>Yang lari dan lepas di cari-Nya lekas.<br/>Terpuji Raja Kristus selama-lamanya</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

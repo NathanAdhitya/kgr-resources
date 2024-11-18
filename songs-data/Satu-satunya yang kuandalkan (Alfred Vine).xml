@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>Satu-satunya yang kuandalkan</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Engkau Tuhan yg setia, waktuMu slalu yg terbaik<br/>Engkau Tuhan sandaranku<br/>Dan ku hanya kan<br/>Berharap pada-Mu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Satu-satunya yang kuandalkan<br/>Satu-satunya yang kupercaya<br/>Engkau sumber kekuatan,<br/>Sumber pengharapan sumber kedamaian</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Satu-satunya yang kuandalkan<br/>Satu-satunya yang kupercaya<br/>Engkau Tuhan memberkati,<br/>Tuhan penyembuhku Tuhan pemulihku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

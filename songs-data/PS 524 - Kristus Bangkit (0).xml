@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:08">
+  <properties>
+    <titles>
+      <title>PS 524 - Kristus Bangkit</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kristus bangkit Kristus mulia mari kita wartakan<br/>Yang jahat dikalahkanNya mari kita wartakan<br/>Maut dihancurkanNya Kristus pemenang jaya</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dalam duka ada suka mari kita wartakan<br/>Dalam maut ada hidup mari kita wartakan<br/>Salib sumber bahagia Kristus pemenang jaya</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Yesus sudah dimuliakan mari kita wartakan<br/>RohNya mendampingi kita mari kita wartakan<br/>Nyanyikanlah pujian Kristus pemenang jaya</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

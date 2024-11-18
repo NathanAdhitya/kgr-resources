@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>Sungguh Indah Nama Yesus</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Sungguh indah nama Yesus<br/>Didalam hatiku<br/>Ku mau iring Dia selalu sampai akhir hidupku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Glory glory glory haleluya terpuji nama Nya <br/>Ku mau iring Dia selalu sampai akhir hidup ku</lines>
+    </verse>
+    <verse name="v2">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:23">
+  <properties>
+    <titles>
+      <title>Bila Roh Allah Ada</title>
+    </titles>
+    <authors>
+      <author>Aku kepunyaan-Mu Yesus</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Bila roh Allah ada di dalamku<br/>Ku 'kan menari s'perti Daud menari<br/>Bila roh Allah ada di dalamku<br/>Ku 'kan menari s'perti Daud menari</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ku 'kan menari, ku 'kan menari<br/>Ku 'kan menari s'perti Daud menari<br/>Ku 'kan menari, ku 'kan menari<br/>Ku 'kan menari s'perti Daud menari</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

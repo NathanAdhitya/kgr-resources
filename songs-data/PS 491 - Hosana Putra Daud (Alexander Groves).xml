@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>PS 491 - Hosana Putra Daud</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hosanna Putra Daud,<br/>Terpujilah yang datang dalam nama Tuhan<br/>Raja Israel!<br/>Hosana sembah sujud</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bersyukurlah kepada Tuhan, sebab Ia baik<br/>Bahwasanya untuk selama-lamanya kasih setia-Nya</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Batu yang dibuang oleh tukang-tukang bangunan<br/>telah menjadi batu penjuru</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Hal itu terjadi dari pihak Tuhan,<br/>suatu perbuatan ajaib di mata kita</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+    <verse name="v1f">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

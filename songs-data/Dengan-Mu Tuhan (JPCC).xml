@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Dengan-Mu Tuhan</title>
+    </titles>
+    <authors>
+      <author>JPCC</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tak pernah 'kuragu akan kesetian-Mu<br/>Kau pegang hidupku<br/>Sepenuh jiwaku kuyakin dan percaya<br/>Kau tuntun langkahku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Yesus Kaulah raja dalam hidupku<br/>Berkuasa berjaya untuk selamanya</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Hanya Kau Tuhan sumber kekuatan<br/>Kuasa-Mu tercurah bagiku senantiasa<br/>Berkat-Mu Tuhan ku 'kan berjalan<br/>Dari kemuliaan sampai kemuliaan selamanya...</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

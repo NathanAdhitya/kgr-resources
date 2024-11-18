@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 539 - Yesus Tuhanku</title>
+    </titles>
+    <authors>
+      <author>PS 539</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Yesus, Tuhanku, Sang Mesias yang dinantikan umat Allah, <br/>datanglah kini pada kami, dan tinggallah di tengah kami.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Yesus, Tuhanku, Sang Pengasih, kami bersujud kepada-Mu:<br/>Doakan kami pada Bapa, kar'na kasih-Mu yang berlimpah.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Yesus, Tuhanku, Jurus'lamat, kami memohon kepada-Mu:<br/>Doakan kami pada Bapa, kar'na kasih-Mu yang berlimpah.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Yesus, Tuhanku, Kau Gembala. dan kami kawanan domba-Mu.<br/>Tuntunlah kami di jalan-Mu, agar selalu jadi satu.</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Yesus, Tuhanku, Putra Allah, kami percaya kepada-mu.<br/>Kuatkan iman dan harapan, agar setia sampai akhir.</lines>
+    </verse>
+    <verse name="v1f">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

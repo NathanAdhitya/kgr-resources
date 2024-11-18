@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 542 - Tuhan Kau Gembala kami</title>
+    </titles>
+    <authors>
+      <author>PS 542</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tuhan, Kau gembala kami, tuntun kami domba-Mu<br/>Kami mohon menikmati hikmat pengorbanan-Mu</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tuhan Yesus, juru s'lamat, kami ini milik-Mu (2x)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kau Pengawal yang setia, Kawan hidup terdekat,<br/>Jauhkan kami dari dosa panggil pulang yang sesat</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Tuhan Yesus, Jurus'lamat, karuniakanlah berkat (2x)</lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:22">
+  <properties>
+    <titles>
+      <title>Kubersyukur Bapa</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Banyak yang Kau perbuat<br/>Didalam hidupku<br/>Rancangan indahMu<br/>Terjadi di hidupku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bapa yang mengerti<br/>Segala yang kuperlu<br/>KasihMu sempurna<br/>Nyata dalam hidupku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kubersyukur Bapa,<br/>Kubersyukur Tuhan<br/>Buat kasih setiaMu<br/>Didalam hidupku<br/>Kubersyukur</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Kubersyukur Bapa,<br/>Kubersyukur Tuhan<br/>Buat kasih setiaMu<br/>Didalam hidupku<br/>Kubersyukur,<br/>Tuhan</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Hatiku takkan gentar<br/>S'bab kutau tanganMu yang menopangku<br/>Tak ada lembah kelam<br/>Yang tak kulewati<br/>Tanpa hadirMu</lines>
+    </verse>
+    <verse name="v1f">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

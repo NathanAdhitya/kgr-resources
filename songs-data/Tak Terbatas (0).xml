@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>Tak Terbatas</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Semusim berlalu, <br/>Namun Kau s'lalu p'liharaku<br/>Kasih dan setia-Mu<br/>Tak pernah layu di hidupku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Lebih luas dari samud'ra <br/>Kebaikan-Mu Bapa takkan habis di hidupku<br/>Lebih tinggi dari cakrawala<br/>Tak terbatas kasih-Mu<br/>Sungguh kubersyukur</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:20">
+  <properties>
+    <titles>
+      <title>Segala Puji Syukur</title>
+    </titles>
+    <authors>
+      <author>Charlotte Elliot</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kau pencipta hidupku<br/>Pemelihara jiwaku<br/>Kau layak terima segala pujian<br/>Kunaikkan syukurku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kau pemilik hidupku<br/>Dalam kasih setia-Mu, Yesusku<br/>Kau layak terima segala pujian<br/>Kunaikkan sembahku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Segala pujian dan syukur bagi-Mu<br/>Allah yang mulia kuduslah nama-Mu<br/>Kaulah yang awal, yang akhir dari segalanya<br/>Yesus Kaulah pujian bagiku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

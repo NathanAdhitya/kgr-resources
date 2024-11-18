@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>YESUS, CAHAYAKU</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Saat ku melangkah bersamaMu<br/>Ku tahu, Kau pegangku<br/>Saat ku terjatuh di jalanku<br/>Ku tahu, Kau angkatku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Walaupun aku berjalan <br/>Di dalam lembah yang kelam<br/>Ku kan selalu memegangMu<br/>Meskipun ku penuh ragu<br/>Dan gelap jalan-jalanku<br/>Ku kan tetap memilihMu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Yesusku, cahayaku<br/>Terangi setiap jalan hidupku<br/>Yesusku, cahayaku<br/>Terangi setiap jalan hidupku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>Kau Ku Sembah</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+      <author>Aku kepunyaan-Mu Yesus</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kau Kusembah (3x) Oooh Tuhan<br/>Kau Kusembah (3x) Oooh Tuhan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sbab Engkaulah Tuhan yang Maha Tinggi<br/>Kau dimuliakan atas s'gala Allah<br/>Sbab Engkaulah Tuhan yang Maha Tinggi<br/>Kau dimuliakan atas s'gala Allah</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

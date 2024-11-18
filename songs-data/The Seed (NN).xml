@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>The Seed</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>The bread by Your Hand was once a seed t'was sown<br/>Then grew and yielded on the ground and gathered all for men<br/>The wine by Your cup was once a vine that crept<br/>It grew to bear good fruits for men<br/>A symbol of Your blood</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Of that seed we eat Your body our bread of life<br/>Of that vine we drink Your blood<br/>The wine of new covenant</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Accept, Lord we offer these seeds and vines of life<br/>Expressions of our gratitude we consecrate to You</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>The seeds and vines of life.</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

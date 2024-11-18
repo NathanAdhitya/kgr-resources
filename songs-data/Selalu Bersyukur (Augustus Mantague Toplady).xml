@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:20">
+  <properties>
+    <titles>
+      <title>Selalu Bersyukur</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Dengan apa ku membalas kasihMU yang kut’rima dariMU<br/>Dengan apa ku membalas cintaMU...Oh Yesusku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Ku mau s’lalu bersyukur, s’lalu bersyukur<br/>Kau Tuhan yang setia yang s’lalu menopang<br/>Ku mau s’lalu bersyukur, s’lalu bersyukur<br/>Kau bapaku yang setia</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

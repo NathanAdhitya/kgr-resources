@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>Satu Hal Yang Kurindu</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Satu hal yang kurindu<br/>Berdiam di dalam rumah-Mu<br/>Satu hal yang ku pinta<br/>Menikmati bait-Mu Tuhan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Lebih baik satu hari di pelataran-Mu<br/>Daripada s'ribu hari di tempat lain<br/>Memuji-Mu<br/>Menyembah-Mu<br/>Kau Allah yang hidup<br/>Dan menikmati s'mua kemurahan-Mu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

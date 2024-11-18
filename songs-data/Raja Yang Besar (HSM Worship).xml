@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>Raja Yang Besar</title>
+    </titles>
+    <authors>
+      <author>HSM Worship</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>kaulah tuhan gunung batuku<br/>bersamamu kuarungi badai hidup<br/>kaulah tuhan yang memegangku<br/>kau bawa hidupku pada kemenangan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>inilah syukurku pujian bagimu<br/>kusorakan namanu yang maha tinggi<br/>raja yang besar atas seluruh bumi<br/>kumuliakan namaMu yang maha agung<br/>allah yang kudus diatas tahta mulia</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>kusorakan namanu yang maha tinggi<br/>raja yang besar atas seluruh bumi<br/>kumuliakan namaMu yang maha agung<br/>allah yang kudus diatas tahta mulia</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

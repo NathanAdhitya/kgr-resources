@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>KasihMu Tiada DuaNya</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>BELUM PERNAH ADA KASIH DI DUNIA<br/>SANGGUP MENERIMA DIRIKU APA ADANYA<br/>SELAIN KASIHMU YESUS</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>TAKKAN ADA LAGI KASIH S'PERTI INI<br/>SANGGUP MENGUBAHKAN HIDUPKU<br/>MENJADI BARU SELAIN KASIHMU YESUS..</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>KAU KUKAGUMI DALAM HATI<br/>KASIHMU TIADA DUANYA<br/>SAMPAI KINI KUAKUI<br/>KASIHMU TIADA DUANYA</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>TIADA DUANYA</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

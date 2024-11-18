@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:25">
+  <properties>
+    <titles>
+      <title>10,000 Reasons (Bless The Lord)</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Bless the Lord O my soul<br/>O my soul<br/>Worship His Holy name<br/>Sing like never before<br/>O my soul<br/>I’ll worship Your Holy name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>The sun comes up<br/>It’s a new day dawning<br/>It’s time to sing Your song again<br/>Whatever may pass<br/>And whatever lies before me<br/>Let me be singing<br/>When the evening comes</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You’re rich in love<br/>And You’re slow to anger<br/>Your name is great<br/>And Your heart is kind<br/>For all Your goodness<br/>I will keep on singing</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ten thousand reasons<br/>For my heart to find</lines>
+    </verse>
+    <verse name="v5">
+      <lines>And on that day<br/>When my strength is failing<br/>The end draws near<br/>And my time has come<br/>Still my soul will<br/>Sing Your praise unending</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ten thousand years<br/>And then forevermore</lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

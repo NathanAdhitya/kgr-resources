@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>Sungguh ku bangga Bapa</title>
+    </titles>
+    <authors>
+      <author>nn</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Sungguh kubangga Bapa<br/>Punya Allah seperti Engkau</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sungguh kubangga Yesus<br/>Atas s'gala pengorbanan-Mu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Tak ingin aku hidup<br/>Lepas dari kasih-Mu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Kasih-Mu menyelamatkan<br/>Dan b'riku pengharapan</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kini kupersembahkan apa yang aku miliki<br/>Memang tiada berarti bila dibanding dengan kasih-Mu<br/>Namun kuingin memb'ri dengan sukacita di hati<br/>Karena kutahu ini menyenangkan hati-Mu</lines>
+    </verse>
+  </lyrics>
+</song>

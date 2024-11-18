@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:25">
+  <properties>
+    <titles>
+      <title>I Offer My Life</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>All that I am, all that I have<br/>I lay them down before You, oh Lord<br/>All my regrets, all my acclaims<br/>The joy and the pain, I'm making them Yours</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Lord, I offer my life to You<br/>Everything I've been through, use it for Your glory<br/>Lord I offer my days to You<br/>Lifting my praise to You as a pleasing sacrifice<br/>Lord I offer You my life</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Things in the past, things yet unseen<br/>Wishes and dreams that are yet to come true<br/>All of my hopes, all of my plans<br/>My heart and my hands are lifted to You</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Lord, I offer my life to You<br/>Everything I've been through, use it for Your glory<br/>Lord I offer my days to You<br/>Lifting my praise to You as a pleasing sacrifice<br/>Lord I offer You my life</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

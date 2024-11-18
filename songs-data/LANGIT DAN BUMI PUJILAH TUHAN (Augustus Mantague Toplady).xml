@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:22">
+  <properties>
+    <titles>
+      <title>LANGIT DAN BUMI PUJILAH TUHAN</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Langit Dan Bumi, Pujilah Tuhan<br/>Sebab Dia Ciptakan Semuanya<br/>Keagungannya Mengatasi Langit Bumi<br/>Sembah Sujud Di Hadapannya</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kupuji, Kusembah....Kupuji, Kusembah<br/>Yesus Kristus Sang Penebusku<br/>Kupuji, Kusembah....Kupuji, Kusembah<br/>Yesus Tuhan Dan Rajaku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Haleluya, Amin (4x)</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

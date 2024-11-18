@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>Tuhan Inilah Hidupku</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tuhan, inilah hidupku kuserahkan padaMu<br/>Segala cita-citaku, masa depanku menjadi milikMu<br/>Jadikan kami terangMu di tengah keg'lapan dunia<br/>Membawa bangsa-bangsa kepadaMu<br/>Tuhan ini kerinduanku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>BagiMu Tuhan seluruh hidupku<br/>Pakailah Tuhan bagi kemuliaanMu<br/>Genapi seluruh rencanaMu<br/>Sampai bumi penuh kemuliaanMu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

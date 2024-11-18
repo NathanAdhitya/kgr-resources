@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>PS 663 - Hidup kita dalam dunia</title>
+    </titles>
+    <authors>
+      <author>PS 663</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hidup kita dalam dunia satu dengan sesama<br/>Marilah kita saling cinta dalam persaudaraan<br/>Amalkan cinta Tuhan, buanglah kebencian, hidup dalam damaiNya,<br/>agar hidup di dunia berkenan kepada Tuhan.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Satu di dalam perjuangan memperoleh anugrah.<br/>Jadi saksi pembawa damai melayani sesama<br/>Jauhkan cinta diri, kembangkan dengan giat, sikap rela berkurban,<br/>yang setia sampai akhir, akan hidup selamanya.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

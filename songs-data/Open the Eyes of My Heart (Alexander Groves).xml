@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:20">
+  <properties>
+    <titles>
+      <title>Open the Eyes of My Heart</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Open the eyes of my heart, Lord<br/>Open the eyes of my heart<br/>I want to see You<br/>I want to see You</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>To see You high and lifted up<br/>Shinin' in the light of Your glory<br/>Pour out Your power and love<br/>As we sing holy, holy, holy</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Holy, holy, holy<br/>We cry holy, holy, holy<br/>You are holy, holy, holy<br/>I want to see you</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Holy, holy, holy<br/>Holy, holy, holy<br/>You are holy, holy, holy<br/>I want to see you</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Holy, holy, holy<br/>Holy, holy, holy<br/>Holy, holy, holy,<br/>I want to see you</lines>
+    </verse>
+  </lyrics>
+</song>

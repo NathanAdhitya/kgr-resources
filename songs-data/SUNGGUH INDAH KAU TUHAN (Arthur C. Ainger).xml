@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>SUNGGUH INDAH KAU TUHAN</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kucari wajahMu temukan kasihMu<br/>Kau bukan Tuhan yang jauh dariku<br/>Kupanggil namaMu, kudengar jawabMu<br/>Kau Tuhan yang slalu dengar seruan hatiku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sungguh indah Kau Tuhan penuh kasih dan sayang<br/>Kau tempat penghiburan bagi setiap hati yang terluka<br/>Sungguh indah Kau Tuhan menara perlindungan<br/>Kau sumber kekuatan bagi semua orang yang membutuhkan</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

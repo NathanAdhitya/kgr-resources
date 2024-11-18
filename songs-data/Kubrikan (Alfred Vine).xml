@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:22">
+  <properties>
+    <titles>
+      <title>Kubrikan</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Telah kudapati kasih yang sejati<br/>Yang mampu mengubahkan hatiku<br/>Kasih yang kau beri jauh melebihi<br/>Segalanya di dalam hidupku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kub'rikan semua yang berharga<br/>Semua yang mulia<br/>Semua yang terbaik dari hidupku<br/>Hanyalah bagi-Mu hanyalah untuk-Mu<br/>Hanyalah bagi kemuliaan-Mu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

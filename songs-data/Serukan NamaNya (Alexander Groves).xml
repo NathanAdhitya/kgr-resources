@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:20">
+  <properties>
+    <titles>
+      <title>Serukan NamaNya</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Tuhanku maha besar<br/>Tuhanku maha kuasa<br/>Raja segala raja</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dia takkan tergoyahkan<br/>Dia takkan terkalahkan<br/>Dia hidup dan berkuasa</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Serukan namaNya, Yesus Tuhan Raja<br/>Segala kuasa tunduk dalam namaNya<br/>Dia luar bisa, perkasa, mulia<br/>Yesus, nama di atas segala nama</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

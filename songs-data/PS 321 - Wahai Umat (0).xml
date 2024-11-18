@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>PS 321 - Wahai Umat</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Wahai, umat, sampaikan kurbanmu di altar Tuhan Allahmu<br/>Dan siapkanlah jiwa ragamu untuk memuji nama-Nya.<br/>Walau tak pantas ka-rena dosa, kita percaya ka -sih-Nya.<br/>Unjukkanlah sembah dan kurbanmu, ja-dikan tanda tobatmu.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Wahai umat, sampaikan syukurmu di hadap Tuhan Allahmu;<br/>Ingatlah akan kasih karunia, yang dicurahkan padamu.<br/>Bapa mengu-tus Ye-sus Sang Putra agar selamat u - mat-Nya.<br/>Sambutlah Sabda dalam hatimu, dan rayakanlah kurban-Nya.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 541 - Yesus Kau Kehidupanku</title>
+    </titles>
+    <authors>
+      <author>PS 541</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Yesus, Kau kehidupanku, Kau penumpas mautku; <br/>pada salib Kau dipaku sampai mati bagiku,<br/>agar aku mendapati hidup baru yang abadi.<br/>Syukur hati tak henti kepada-Mu kuberi.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Yesus, Kau telah memikul fitnah, siksa terbesar, <br/>Kau ditambatkan dipukul, walau hidup-Mu benar,<br/>agar aku tak binasa s'lamat dari rantai dosa.<br/>Syukur hati tak henti kepada-Mu kuberi.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Tinggi hatiku t'lah pupus oleh kelembutan-Mu; <br/>oleh mati-Mu Kau hapus rasa pahit matiku.<br/>Oleh nista yang Kau tanggung 'ku yang hina jadi agung.<br/>Syukur hati tak henti kepada-Mu kuberi.</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>T'rima kasih, Juru s'lamat, atas pengurbanan-Mu: <br/>atas sakit-Mu yang sangat, atas pahit mati-Mu.<br/>Atas luka, atas bilur, atas salib yang Kau pikul.<br/>Syukur hati tak henti kepada-Mu kuberi.</lines>
+    </verse>
+  </lyrics>
+</song>

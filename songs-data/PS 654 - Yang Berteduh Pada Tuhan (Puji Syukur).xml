@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>PS 654 - Yang Berteduh Pada Tuhan</title>
+    </titles>
+    <authors>
+      <author>Puji Syukur</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Yang berteduh pada Tuhan<br/>yang Mahatinggi dan besar<br/>yang menyandarkan hidupnya<br/>pada kuasa Allahnya</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>akan berkata padaNya<br/>Ya Allah, Kau penaungku<br/>Kau kubu dan perisaiku<br/>percaya aku padaMu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Yang berserah kepadaKu,<br/>hidupnya akan Kurengkuh<br/>yang berseru kepadaKu<br/>doanya akan Kudengar</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Terus Kubimbing langkahnya<br/>Akulah Tuhan Allahnya<br/>akan selamat hidupnya<br/>dan bahagia selamanya</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

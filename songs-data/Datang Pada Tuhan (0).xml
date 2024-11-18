@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>Datang Pada Tuhan</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Datang pada Tuhan<br/>dengan sorak-sorai<br/>datang pada Tuhan<br/>dengan nyanyian syukur</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>S'bab Dia Raja<br/>dan Tuhan<br/>Bapa yang berkuasa</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kemuliaan<br/>hanya<br/>bagi Dia</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Ku mau b'ri<br/>korban syukur<br/>padaNya<br/>setiap waktu</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Ku mau memuji<br/>Tuhan selalu<br/>seumur hidupku</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>Ku mau<br/>bersorak-sorai<br/>hei....</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Dan menari<br/>dihadapanNya<br/>umatNya bersuka</lines>
+    </verse>
+    <verse name="v1h">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

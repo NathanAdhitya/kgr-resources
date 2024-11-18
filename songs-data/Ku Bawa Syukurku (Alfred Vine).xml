@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:22">
+  <properties>
+    <titles>
+      <title>Ku Bawa Syukurku</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ku bawa syukurku ke tempat kudusMu<br/>Ku bawa sembahku dan pujian bagiMu<br/>Bapa dan Rajaku kumengasihiMu<br/>Inilah hidupku kupersembahkan bagiMu</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Takkan pernah ku bawa selain yang terbaik<br/>Selamanya ku ‘kan s’lalu menyembah-Mu<br/>Ini persembahanku s’bagai korban syukurku<br/>Kerinduanku memuliakanMU s’panjang hidupku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

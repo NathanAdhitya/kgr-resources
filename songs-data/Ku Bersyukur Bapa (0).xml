@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:10">
+  <properties>
+    <titles>
+      <title>Ku Bersyukur Bapa</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ku bersyukur Bapa, ku bersyukur Tuhan <br/>Buat kasih setia-Mu di dalam hidupku<br/>Ku bersyukur<br/>Ku bersyukur Bapa, ku bersyukur Tuhan<br/>Buat kasih setia-Mu di dalam hidupku<br/>Ku bersyukur, Tuhan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Banyak yang Kau perbuat di dalam hidupku <br/>Rancangan indah-Mu terjadi di hidupku<br/>Bapa yang mengerti segala yang ku perlu<br/>Kasih-Mu sempurna nyata dalam hidupku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

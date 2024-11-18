@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:12">
+  <properties>
+    <titles>
+      <title>Ya Allah Baik (God is so Good)</title>
+    </titles>
+    <authors>
+      <author>NN</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ya, Allah Baik (3x) <br/>Allah Baik bagiku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>God is so Good (3x) <br/>He so Good to me</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

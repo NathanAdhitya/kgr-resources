@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:21">
+  <properties>
+    <titles>
+      <title>PS 483 - O Yesus Putra Bapa</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>O Yesus, Putra Bapa, mulia sejak semula, setaraf yang Esa.<br/>Kau mengosongkan Diri, mengambil rupa abdi, Engkau setaraf manusia.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Sebagai manusia, Kau merendahkan Diri tiada batasnya.<br/>Kau rela menderita, Kau taat sampai mati, di kayu salib yang keji.</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kau ditinggikan Allah, dikurniai nama, yang tiada taranya.<br/>Seluruh alam raya berlutut mengakui, “Tuhanlah Yesus Almasih.”</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Buatlah kami, Tuhan, sepikir dan sehati di dalam kasih-Mu.<br/>Jadikan kami abdi setia sampai mati, mengikut contoh hidup-Mu.</lines>
+    </verse>
+  </lyrics>
+</song>

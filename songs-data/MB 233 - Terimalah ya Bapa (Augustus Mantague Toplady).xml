@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:23">
+  <properties>
+    <titles>
+      <title>MB 233 - Terimalah ya Bapa</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>T'rimalah roti anggur<br/>Persembahan diri kami<br/>T'rimalah ya Bapa trimalah</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Pralambang karya kami<br/>Suka duka hidup ini<br/>Trimalah ya Bapa trimalah</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>T'rimalah syukur kami<br/>Atas sgala kurnia-Mu<br/>T'rimalah ya Bapa t'rimalah</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

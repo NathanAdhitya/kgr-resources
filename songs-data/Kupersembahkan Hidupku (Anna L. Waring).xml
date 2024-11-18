@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:22">
+  <properties>
+    <titles>
+      <title>Kupersembahkan Hidupku</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ini aku, s'mua milikku<br/>Kuserahkan pada-Mu Tuhan<br/>Penyesalan dan kebanggaan<br/>Suka dan duka, s'mua kuserahkan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Yang t'lah lalu, yang 'kan datang<br/>Hasrat dan harapan yang terbayang<br/>Masa depan dan rencanaku<br/>S'mua kuserahkan dalam tangan-Mu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kupersembahkan hidupku kepada-Mu Tuhan<br/>'Tuk kemuliaan-Mu<br/>Kuberikan hidup ini s'bagai persembahan<br/>Yang berkenan pada-Mu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Kuberikan hidupku<br/>Kepada-Mu Tuhanku</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

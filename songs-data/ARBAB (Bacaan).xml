@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:25">
+  <properties>
+    <titles>
+      <title>ARBAB</title>
+    </titles>
+    <authors>
+      <author>Bacaan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Daku 'kan bernyanyi, daku 'memuji, Membesarkan nama Tuhanku!</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Jiwaku ingin bernyanyi,<br/>Serta tubuhku menari-nari,<br/>Ooo...menunjukan sukacita,<br/>'Tas kasih Tuhan kepadaku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>'Kan kutiup sangkakala,<br/>Atau seruling dengan rebana,<br/>Ooo...'kan kumainkan kecapi,<br/>Memuji Tuhan Mukhalisku</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Haleluya! 'Ku kan memuji Tuhanku,<br/>'Kan kunyanyikan selamanya,<br/>Gendang, ceracap, atau gong serta rebab,<br/>Akan kutabuh membesarkan namaNya!</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>Ooo...pantun, syair, dan seloka,<br/>Akan kucipta, akan kugubah,<br/>Ooo...jadi nyanyian yang indah,<br/>Memuji Tuhan Mukhalisku!</lines>
+    </verse>
+    <verse name="v1f">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

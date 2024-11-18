@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:18">
+  <properties>
+    <titles>
+      <title>Yesus Penebusku</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Besar mulia kasihMu<br/>Kau korbankan hidupMu<br/>Curahkan darahMu sebagai ganti dosaku<br/>Kau berikan harapan di dalam kesesakan<br/>Agunglah perbuatanMu<br/>Yesus Tuhan Penebusku</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Karna kasihMu yang s’lamatkanku<br/>Menyucikan dan menebus hidupku<br/>Kunaikkan syukur buat pengorbananMu<br/>Maha Mulia dan terindah Kau Yesus</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

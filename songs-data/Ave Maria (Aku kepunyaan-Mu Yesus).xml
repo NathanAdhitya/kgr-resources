@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:26">
+  <properties>
+    <titles>
+      <title>Ave Maria</title>
+    </titles>
+    <authors>
+      <author>Aku kepunyaan-Mu Yesus</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>ENGKAU YANG DIPILIH ALLAH BAPA DI SURGA<br/>UNTUK MELAHIRKAN PUTRANYA YANG KUDUS<br/>ENGKAULAH BUNDA KRISTUS<br/>BUNDA SANG PENEBUS SEGALA DOSA MANUSIA</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>BUNDA MARIA P'RAWAN YANG TIADA TERNODA<br/>HATIMU BERSINAR PUTIH TIADA BERCELA<br/>ENGKAU BUNDA ALMASIH<br/>YANG DIANGKAT KE SURGA PENUH KEMULIAN</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>AVE MARIA...AVE MARIA...TERPUJILAH BUNDA<br/>TERPUJI NAMAMU SEPANJANG SEGALA MASA<br/>AVE MARIA...AVE MARIA...SYUKUR KEPADANYA<br/>TUHAN YANG PENGASIH SELAMA LAMANYA</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

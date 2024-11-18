@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>TERBESAR DAN MULIA</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Segenap hati aku memuji<br/>Segenap  jiwa aku bernyanyi<br/>Karna  rohMu ada dalamku Tuhan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Kuangkat tanganku memuji<br/>Kuangkat  suara dan bernyanyi<br/>Karna rohMu ada dalamku Tuhan</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Mari menari memuji...ungkapkan sukacita di hati</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Kau terbesar dan mulia ajaib semua perbuatanMu<br/>Kau terbesar dan mulia biarlah semua memujiMu</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Hari Terbaik</title>
+    </titles>
+    <authors>
+      <author>Alexander Groves</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hidupku ada di tanganMu<br/>Kau b'ri rancangan yang terindah<br/>Tak hanya yang baik saja yang kuterima<br/>Walau tubuhku diremukkan<br/>Walau jiwaku terkoyakkan<br/>Pujianku takkan terhentikan<br/>RohMu yang memb'ri penghiburan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Akan kupikul salibku<br/>Cukuplah kasih setiaMu<br/>Kubertahan, Kau kuatku<br/>Teguhkan imanku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Kumau tetap bersyukur<br/>Senantiasa bersyukur<br/>S'gala yang kualami<br/>Biar kehendakMu terjadi<br/>Kumau tetap bersyukur<br/>Senantiasa bersyukur<br/>Hatiku 'kan bersuka<br/>S'bab hari ini hari yang terbaik</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

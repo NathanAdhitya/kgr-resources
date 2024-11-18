@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>PS 665 - Hai Umat Sluruh Dunia</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hai umat s'luruh dunia, pujilah Allahmu<br/>yang tak henti diagungkan malaikat di surga<br/>Pujilah Allah nan megah, permata nan indah<br/>DikerjakanNya mujizat dan karya yang besar</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Dikaruniakan olehNya semangat yang baru<br/>duka, gelisah, dan cemas dibuang olehNya<br/>Tuhan limpahkanlah damaiMu kepada bangsaku<br/>limpahkanlah hasil kerja kepada umatMu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Jadilah Kau jurus'lamat sepanjang hayatku<br/>Jadilah Kau warisanku sesudah ajalku<br/>Jikalau datang saatnya Kau putus hidupku<br/>sinarkan wajahMu, Tuhan, di surga abadi</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

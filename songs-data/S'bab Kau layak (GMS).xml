@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>S'bab Kau layak</title>
+    </titles>
+    <authors>
+      <author>GMS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Yesus Kucinta Kau<br/>Kutinggikan Kuagungkan<br/>Aku 'Kan Memuji-Mu<br/>Baik Di Dalam Suka dan Duka</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>S'bab Kau Layak T'rima Pujian (2x) <br/>S'bab Kau Layak Kuagungkan Yesus<br/>Raja Di Atas Segala Raja</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

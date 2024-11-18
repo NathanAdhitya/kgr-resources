@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:16">
+  <properties>
+    <titles>
+      <title>Sinar KemuliaanMu</title>
+    </titles>
+    <authors>
+      <author>Petrus Somba</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>SINAR KEMULIAAN-MU BAPA<br/>MEMENUHI DI S’KELILINGKU<br/>KURASAKAN HADIRAT-MU, KAU TENGGELAMKAN JIWAKU<br/>KU INGIN TETAP TINGGAL BERSAMA-MU</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>KU INGIN TETAP DI SINI<br/>MENIKMATI BAIT-MU<br/>KU INGIN TETAP DI SINI<br/>DAN MEMANDANG INDAH WAJAH-MU</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

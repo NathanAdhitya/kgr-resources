@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Go Tell It on the Mountain</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Go, tell it on the mountain<br/>Over the hills and everywhere<br/>Go, tell it on the mountain<br/>That Jesus Christ is born</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>While shepherds kept their watching<br/>O'er silent flocks by night<br/>Behold throughout the heavens<br/>There shone a Holy light</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>The shepherds feared and trembled<br/>When, lo! Above the Earth<br/>Rang out the angel chorus<br/>That hailed our Savior's birth</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Down in a lowly manger<br/>Our humble Christ was born<br/>And brought us all salvation<br/>That blessed Christmas morn</lines>
+    </verse>
+    <verse name="v1e">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

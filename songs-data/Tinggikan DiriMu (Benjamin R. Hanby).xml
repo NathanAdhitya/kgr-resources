@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:17">
+  <properties>
+    <titles>
+      <title>Tinggikan DiriMu</title>
+    </titles>
+    <authors>
+      <author>Benjamin R. Hanby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>KU BERSYUKUR PADA-MU TUHAN ATAS KASIH-MU<br/>KU BERMAZMUR BAGI NAMA-MU YANG KUDUS<br/>S’BAB ENGKAU KEBENARANKU PADA-MU KU PERCAYA<br/>BETAPA MULIANYA TUHANKU KU RINDU MENYATAKAN</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>TINGGIKAN DIRI-MU MENGATASI LANGIT<br/>KEBESARAN-MU TUHAN MENGATASI BUMI<br/>TINGGIKAN DIRI-MU MENGATASI LANGIT<br/>KEMULIAAN-MU TUHAN MENGATASI BUMI</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:25">
+  <properties>
+    <titles>
+      <title>It is well with my soul</title>
+    </titles>
+    <authors>
+      <author>Arthur C. Ainger</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>When peace like a river attendeth my way<br/>When sorrows like sea billows roll<br/>Whatever my lot, Thou hast taught me to say<br/>It is well, it is well with my soul</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>It is well (it is well)<br/>With my soul (with my soul)<br/>It is well, it is well with my soul</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Though Satan should buffet, though trials should come<br/>Let this blest assurance control<br/>That Christ (yes, He has) has regarded my helpless estate<br/>And has shed His own blood for my soul</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>It is well (it is well)<br/>With my soul (with my soul)<br/>It is well, it is well with my soul</lines>
+    </verse>
+    <verse name="v1e">
+      <lines>My sin, oh the bliss of this glorious thought (a thought)<br/>My sin, not in part, but the whole (every bit, every bit, all of it)<br/>Is nailed to the cross, and I bear it no more (yes!)<br/>Praise the Lord, praise the Lord, O my soul!</lines>
+    </verse>
+    <verse name="v1f">
+      <lines>It is well (it is well)<br/>With my soul (with my soul)<br/>It is well, it is well with my soul</lines>
+    </verse>
+    <verse name="v1g">
+      <lines>Sing it as well</lines>
+    </verse>
+    <verse name="v1h">
+      <lines>It is well (it is well)<br/>With my soul (with my soul)<br/>It is well, it is well with my soul</lines>
+    </verse>
+    <verse name="v1i">
+      <lines>And Lord, haste the day when my faith shall be sight<br/>The clouds be rolled back as a scroll<br/>The trump shall resound, and the Lord shall descend<br/>Even so, it is well with my soul!</lines>
+    </verse>
+    <verse name="v1j">
+      <lines>It is well (it is well)<br/>With my soul (with my soul)<br/>It is well, it is well with my soul<br/>Sing up to Jesus, it is well!</lines>
+    </verse>
+    <verse name="v1k">
+      <lines>It is well (it is well)<br/>With my soul (with my soul)<br/>It is well, it is well with my soul</lines>
+    </verse>
+    <verse name="v1l">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

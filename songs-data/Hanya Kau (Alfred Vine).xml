@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Hanya Kau</title>
+    </titles>
+    <authors>
+      <author>Alfred Vine</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Kau telah buktikan<br/>CintaMu padaku<br/>Kau membayarku dengan hidupMu<br/>Ku bersyukur</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Yang ada padaku<br/>Semuanya milikMu<br/>Ku persembahkan s'luruh hidupku<br/>Di mezbahMu</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Hanya Kau yang menjadi tempat jawaban<br/>Hanya Kau tempatku berharap<br/>Berjalan bersamaMu ku tak kan goyah<br/>S'bab tangan kasihMu tersedia bagiku<br/>S'lamanya Kau ku cinta</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

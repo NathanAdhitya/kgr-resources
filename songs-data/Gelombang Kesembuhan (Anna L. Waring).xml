@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Gelombang Kesembuhan</title>
+    </titles>
+    <authors>
+      <author>Anna L. Waring</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Lihatlah, Dia datang<br/>Melawat seluruh bumi<br/>Bagaikan gelombang<br/>Membawa kesembuhan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Yang lemah dikuatkan<br/>Yang miskin diperkaya<br/>Mujizat-Nya dinyatakan s'karang<br/>Yang lumpuh 'kan berjalan<br/>Yang buta 'kan melihat<br/>Perbuatan-Nya ajaib atas kita, hey!</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Soraklah, "Haleluya!"<br/>Pujilah nama-Nya<br/>Soraklah, "Haleluya!"<br/>Tuhan Yesus ajaib</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

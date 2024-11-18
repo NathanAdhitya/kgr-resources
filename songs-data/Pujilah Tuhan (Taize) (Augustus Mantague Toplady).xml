@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:19">
+  <properties>
+    <titles>
+      <title>Pujilah Tuhan (Taize)</title>
+    </titles>
+    <authors>
+      <author>Augustus Mantague Toplady</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Pujilah Tuhan<br/>Pujilah Namanya<br/>Pujilah Tuhan<br/>Sumber Kehidupan</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bless The Lord, my Soul<br/>And bless God's holy name<br/>Bless The Lord, my soul<br/>He leads me into life</lines>
+    </verse>
+    <verse name="v1c">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

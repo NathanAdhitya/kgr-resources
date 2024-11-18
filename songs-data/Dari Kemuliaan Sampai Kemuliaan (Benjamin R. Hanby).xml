@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:24">
+  <properties>
+    <titles>
+      <title>Dari Kemuliaan Sampai Kemuliaan</title>
+    </titles>
+    <authors>
+      <author>Benjamin R. Hanby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Segenap manusia menyembah<br/>Menyembah indah kemuliaanMu, Bapa<br/>Kau angkat kami dari keg’lapan<br/>Untuk nyatakan sungguh Kau, Yesus yang terhebat</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Tiada satu pun dapat menghalangi Engkau<br/>Tiada satu pun dapat manghalangi Engkau<br/>Ini yang terbaik dan menjadi bagian hidupku</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Dari kemuliaan sampai kemuliaan<br/>Engkau membawaku semakin semakin bersinar<br/>Terbang bersamaMu terbang semakin tinggi<br/>Nyatakan Tuhan bagi hidup ini sinar kemuliaanMu</lines>
+    </verse>
+    <verse name="v1d">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>
