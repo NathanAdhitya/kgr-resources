@@ -1,28 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-04-11T13:59:23">
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.5" modifiedIn="OpenLP 3.1.5" modifiedDate="2024-11-23T11:42:43">
   <properties>
     <titles>
       <title>MB 228 - Bawalah Persembahanmu</title>
     </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
     <authors>
-      <author>Alfred Vine</author>
+      <author>Paul Widyawan</author>
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1a">
+    <verse name="v1">
       <lines>Bawalah persembahan mu nanti<br/>Ke altar yang suci<br/>Semoga Allah Bapa berkenan<br/>Mengambil tanda cintaMu</lines>
     </verse>
-    <verse name="v1b">
+    <verse name="v2">
       <lines>Bawalah hati indah berseri<br/>Ke altar yang suci<br/>Semoga Allah Bapa berkenan<br/>Mengambil bunga hatiMu</lines>
     </verse>
-    <verse name="v1c">
-      <lines>Lenyaplah kesan hampa gulana<br/>Semarak kini medan berbakti<br/>Berhiaskan niat warna-warni<br/>Bagaikan kembang mekar berseri</lines>
-    </verse>
-    <verse name="v1d">
+    <verse name="v3">
       <lines>Bawalah senandung pasrah diri<br/>Ke altar yang suci<br/>Semoga Allah Bapa berkenan<br/>Mengambil bakti diriMu</lines>
     </verse>
-    <verse name="v1e">
-      <lines/>
+    <verse name="c1">
+      <lines>Lenyaplah kesan hampa gulana<br/>Semarak kini medan berbakti<br/>Berhiaskan niat warna-warni<br/>Bagaikan kembang mekar berseri</lines>
     </verse>
   </lyrics>
 </song>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.5" modifiedIn="OpenLP 3.1.5" modifiedDate="2024-11-23T11:42:59">
+  <properties>
+    <titles>
+      <title>PS 554 - Ya Kristus Yesus, Allahku</title>
+    </titles>
+    <copyright>Buku Puji Syukur Kor III © Komisi Liturgi KWI</copyright>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Puji Syukur</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ya Kristus Yesus Allahku, Raja seluruh alam<br/>Dikau bertakhta di surga, di sisi kanan Bapa</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ya Kristus Yesus Tuhanku, trimalah hormat bakti<br/>yang dilambungkan umatMu di surga dan di bumi</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ya Kristus Yesus Tuhanku, Kau Anakdomba Allah<br/>bagiMu puji dan sembah sepanjang masa. Amin.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Yesus Kau Raja, Allah benar<br/>padaMu Tuhan 'ku berserah<br/>sampai ajal 'ku setia</lines>
+    </verse>
+  </lyrics>
+</song>
