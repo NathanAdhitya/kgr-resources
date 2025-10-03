@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.1" modifiedIn="OpenLP 3.1.1" modifiedDate="2024-11-23T09:01:04">
+  <properties>
+    <titles>
+      <title>Betapa Hebat</title>
+    </titles>
+    <authors>
+      <author>0</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Berkuasa di bumi di surga<br/>Bertahta dalam kemuliaan<br/>Dialah Tuhan Allah kita<br/>Namanya berkuasa<br/>Pembebas umat-Nya </lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Betapa hebat betapa kuat<br/>Dahsyatnya Allah kita<br/>Dia berjaya atas semua perbuatan-Nya </lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Betapa hebat betapa kuat<br/>Dahsyatnya Allah kita<br/>Dia ternama Yesus Raja s'gala Raja<br/>Tuhan Allah kita</lines>
+    </verse>
+    <verse name="v1d">
+      <lines> </lines>
+    </verse>
+  </lyrics>
+</song>

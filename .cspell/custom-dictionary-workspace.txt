@@ -1,0 +1,31 @@
+# Custom Dictionary Words
+# Additions on top of the Indonesian Dictionary
+Aleluya
+Alleluya
+Antifon
+barangsiapa
+berbela
+Bersegeralah
+bertanyalah
+Daniel
+Elia
+haturkan
+Ibrani
+Kauikutsertakan
+Kolekta
+Lewi
+manusianya
+melembut
+mengolahnya
+Mikhael
+nafkahnya
+pengurbanan
+Penyelamatku
+percayalah
+Pilatus
+Pujilah
+pulanglah
+Sarfat
+Terpujilah
+Tuhanlah
+Tuntunlah

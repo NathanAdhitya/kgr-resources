@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.5" modifiedIn="OpenLP 3.1.5" modifiedDate="2024-11-23T11:19:35">
+  <properties>
+    <titles>
+      <title>Tuhan Kami Tidak Pantas</title>
+    </titles>
+    <authors>
+      <author>Natalis Natalianto</author>
+      <author>rev. Tim Juri Lomba Cipta Lagu Gerejani</author>
+      <author>LP3KD DKI Jakarta</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Setelah berulang kali kami jatuh dalam lubang dosa<br/>Kami yang lemah sering jauh dariMu, ya Tuhan</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Berulang kali pula dosa-dosa kami Engkau hapus<br/>Kasih-Mu Tuhan tak ternilai besarnya bagi kami</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tuhan, kami tidak pantas Tuhan datang pada kami<br/>Namun bersabdalah saja maka kami pun sembuh</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lewat Tubuh Darah mahasuci Kau menghapus dosa-dosa kami<br/>Kasih-Mu Tuhan tak terhingga batasnya bagi kami</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tuhan, kami tidak pantas Tuhan datang pada kami<br/>Namun bersabdalah saja maka kami pun sembuh<br/>Maka kami pun sembuh</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tuhan, kami tidak pantas Tuhan datang pada kami<br/>Namun bersabdalah saja maka kami pun sembuh<br/>Maka kami pun sembuh, amin.</lines>
+    </verse>
+  </lyrics>
+</song>
