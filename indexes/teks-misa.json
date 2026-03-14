@@ -1,8 +1,13 @@
 {  
    
-      "01-mar-2026": {"title": "Minggu Prapaskah II", "date": "2026-03-01", "originalFilename": "01-mar-2026.mdx"},
-      "08-mar-2026": {"title": "Minggu Prapaskah III", "date": "2026-03-08", "originalFilename": "08-mar-2026.mdx"},
+    
       "15-mar-2026": {"title": "Minggu Prapaskah IV", "date": "2026-03-15", "originalFilename": "15-mar-2026.mdx"},
-      "22-mar-2026": {"title": "Minggu Prapaskah V", "date": "2026-03-22", "originalFilename": "22-mar-2026.mdx"}
+      "22-mar-2026": {"title": "Minggu Prapaskah V", "date": "2026-03-22", "originalFilename": "22-mar-2026.mdx"},
+      "29-mar-2026": {"title": "Minggu Palma", "date": "2026-03-29", "originalFilename": "29-mar-2026.mdx"},
+      "02-apr-2026": {"title": "Hari Kamis Putih", "date": "2026-03-22", "originalFilename": "02-apr-2026.mdx"},
+      "03-apr-2026": {"title": "Ibadat Jumat Agung", "date": "2026-03-22", "originalFilename": "03-apr-2026.mdx"},
+      "04-apr-2026": {"title": "Malam Vigili Paskah", "date": "2026-03-22", "originalFilename": "04-apr-2026.mdx"},
+      "05-apr-2026": {"title": "Hari Raya Paskah", "date": "2026-03-22", "originalFilename": "05-apr-2026.mdx"}
+
 }
 
